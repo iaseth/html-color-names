@@ -27,6 +27,8 @@ class PyColor:
 		jo = {}
 		jo["name"] = self.name
 		jo["lowername"] = self.lowername
+		jo["hex"] = self.hex
+		jo["rgb"] = self.rgb
 
 		jo["cssPath"] = self.csspath
 		jo["cssGithub"] = self.css_github

@@ -3,6 +3,12 @@
 		{
 			"name": "AliceBlue",
 			"lowername": "aliceblue",
+			"hex": "#f0f8ff",
+			"rgb": [
+				240,
+				248,
+				255
+			],
 			"cssPath": "css/aliceblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/aliceblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/aliceblue.css",
@@ -26,6 +32,12 @@
 		{
 			"name": "AntiqueWhite",
 			"lowername": "antiquewhite",
+			"hex": "#faebd7",
+			"rgb": [
+				250,
+				235,
+				215
+			],
 			"cssPath": "css/antiquewhite.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/antiquewhite.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/antiquewhite.css",
@@ -49,6 +61,12 @@
 		{
 			"name": "Aqua",
 			"lowername": "aqua",
+			"hex": "#00ffff",
+			"rgb": [
+				0,
+				255,
+				255
+			],
 			"cssPath": "css/aqua.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/aqua.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/aqua.css",
@@ -72,6 +90,12 @@
 		{
 			"name": "Aquamarine",
 			"lowername": "aquamarine",
+			"hex": "#7fffd4",
+			"rgb": [
+				127,
+				255,
+				212
+			],
 			"cssPath": "css/aquamarine.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/aquamarine.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/aquamarine.css",
@@ -95,6 +119,12 @@
 		{
 			"name": "Azure",
 			"lowername": "azure",
+			"hex": "#f0ffff",
+			"rgb": [
+				240,
+				255,
+				255
+			],
 			"cssPath": "css/azure.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/azure.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/azure.css",
@@ -118,6 +148,12 @@
 		{
 			"name": "Beige",
 			"lowername": "beige",
+			"hex": "#f5f5dc",
+			"rgb": [
+				245,
+				245,
+				220
+			],
 			"cssPath": "css/beige.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/beige.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/beige.css",
@@ -141,6 +177,12 @@
 		{
 			"name": "Bisque",
 			"lowername": "bisque",
+			"hex": "#ffe4c4",
+			"rgb": [
+				255,
+				228,
+				196
+			],
 			"cssPath": "css/bisque.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/bisque.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/bisque.css",
@@ -164,6 +206,12 @@
 		{
 			"name": "Black",
 			"lowername": "black",
+			"hex": "#000000",
+			"rgb": [
+				0,
+				0,
+				0
+			],
 			"cssPath": "css/black.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/black.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/black.css",
@@ -187,6 +235,12 @@
 		{
 			"name": "BlanchedAlmond",
 			"lowername": "blanchedalmond",
+			"hex": "#ffebcd",
+			"rgb": [
+				255,
+				235,
+				205
+			],
 			"cssPath": "css/blanchedalmond.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/blanchedalmond.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/blanchedalmond.css",
@@ -210,6 +264,12 @@
 		{
 			"name": "Blue",
 			"lowername": "blue",
+			"hex": "#0000ff",
+			"rgb": [
+				0,
+				0,
+				255
+			],
 			"cssPath": "css/blue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/blue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/blue.css",
@@ -233,6 +293,12 @@
 		{
 			"name": "BlueViolet",
 			"lowername": "blueviolet",
+			"hex": "#8a2be2",
+			"rgb": [
+				138,
+				43,
+				226
+			],
 			"cssPath": "css/blueviolet.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/blueviolet.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/blueviolet.css",
@@ -256,6 +322,12 @@
 		{
 			"name": "Brown",
 			"lowername": "brown",
+			"hex": "#a52a2a",
+			"rgb": [
+				165,
+				42,
+				42
+			],
 			"cssPath": "css/brown.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/brown.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/brown.css",
@@ -279,6 +351,12 @@
 		{
 			"name": "BurlyWood",
 			"lowername": "burlywood",
+			"hex": "#deb887",
+			"rgb": [
+				222,
+				184,
+				135
+			],
 			"cssPath": "css/burlywood.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/burlywood.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/burlywood.css",
@@ -302,6 +380,12 @@
 		{
 			"name": "CadetBlue",
 			"lowername": "cadetblue",
+			"hex": "#5f9ea0",
+			"rgb": [
+				95,
+				158,
+				160
+			],
 			"cssPath": "css/cadetblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/cadetblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/cadetblue.css",
@@ -325,6 +409,12 @@
 		{
 			"name": "Chartreuse",
 			"lowername": "chartreuse",
+			"hex": "#7fff00",
+			"rgb": [
+				127,
+				255,
+				0
+			],
 			"cssPath": "css/chartreuse.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/chartreuse.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/chartreuse.css",
@@ -348,6 +438,12 @@
 		{
 			"name": "Chocolate",
 			"lowername": "chocolate",
+			"hex": "#d2691e",
+			"rgb": [
+				210,
+				105,
+				30
+			],
 			"cssPath": "css/chocolate.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/chocolate.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/chocolate.css",
@@ -371,6 +467,12 @@
 		{
 			"name": "Coral",
 			"lowername": "coral",
+			"hex": "#ff7f50",
+			"rgb": [
+				255,
+				127,
+				80
+			],
 			"cssPath": "css/coral.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/coral.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/coral.css",
@@ -394,6 +496,12 @@
 		{
 			"name": "CornflowerBlue",
 			"lowername": "cornflowerblue",
+			"hex": "#6495ed",
+			"rgb": [
+				100,
+				149,
+				237
+			],
 			"cssPath": "css/cornflowerblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/cornflowerblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/cornflowerblue.css",
@@ -417,6 +525,12 @@
 		{
 			"name": "Cornsilk",
 			"lowername": "cornsilk",
+			"hex": "#fff8dc",
+			"rgb": [
+				255,
+				248,
+				220
+			],
 			"cssPath": "css/cornsilk.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/cornsilk.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/cornsilk.css",
@@ -440,6 +554,12 @@
 		{
 			"name": "Crimson",
 			"lowername": "crimson",
+			"hex": "#dc143c",
+			"rgb": [
+				220,
+				20,
+				60
+			],
 			"cssPath": "css/crimson.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/crimson.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/crimson.css",
@@ -463,6 +583,12 @@
 		{
 			"name": "Cyan",
 			"lowername": "cyan",
+			"hex": "#00ffff",
+			"rgb": [
+				0,
+				255,
+				255
+			],
 			"cssPath": "css/cyan.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/cyan.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/cyan.css",
@@ -486,6 +612,12 @@
 		{
 			"name": "DarkBlue",
 			"lowername": "darkblue",
+			"hex": "#00008b",
+			"rgb": [
+				0,
+				0,
+				139
+			],
 			"cssPath": "css/darkblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkblue.css",
@@ -509,6 +641,12 @@
 		{
 			"name": "DarkCyan",
 			"lowername": "darkcyan",
+			"hex": "#008b8b",
+			"rgb": [
+				0,
+				139,
+				139
+			],
 			"cssPath": "css/darkcyan.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkcyan.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkcyan.css",
@@ -532,6 +670,12 @@
 		{
 			"name": "DarkGoldenRod",
 			"lowername": "darkgoldenrod",
+			"hex": "#b8860b",
+			"rgb": [
+				184,
+				134,
+				11
+			],
 			"cssPath": "css/darkgoldenrod.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkgoldenrod.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkgoldenrod.css",
@@ -555,6 +699,12 @@
 		{
 			"name": "DarkGray",
 			"lowername": "darkgray",
+			"hex": "#a9a9a9",
+			"rgb": [
+				169,
+				169,
+				169
+			],
 			"cssPath": "css/darkgray.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkgray.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkgray.css",
@@ -578,6 +728,12 @@
 		{
 			"name": "DarkGrey",
 			"lowername": "darkgrey",
+			"hex": "#a9a9a9",
+			"rgb": [
+				169,
+				169,
+				169
+			],
 			"cssPath": "css/darkgrey.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkgrey.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkgrey.css",
@@ -601,6 +757,12 @@
 		{
 			"name": "DarkGreen",
 			"lowername": "darkgreen",
+			"hex": "#006400",
+			"rgb": [
+				0,
+				100,
+				0
+			],
 			"cssPath": "css/darkgreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkgreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkgreen.css",
@@ -624,6 +786,12 @@
 		{
 			"name": "DarkKhaki",
 			"lowername": "darkkhaki",
+			"hex": "#bdb76b",
+			"rgb": [
+				189,
+				183,
+				107
+			],
 			"cssPath": "css/darkkhaki.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkkhaki.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkkhaki.css",
@@ -647,6 +815,12 @@
 		{
 			"name": "DarkMagenta",
 			"lowername": "darkmagenta",
+			"hex": "#8b008b",
+			"rgb": [
+				139,
+				0,
+				139
+			],
 			"cssPath": "css/darkmagenta.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkmagenta.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkmagenta.css",
@@ -670,6 +844,12 @@
 		{
 			"name": "DarkOliveGreen",
 			"lowername": "darkolivegreen",
+			"hex": "#556b2f",
+			"rgb": [
+				85,
+				107,
+				47
+			],
 			"cssPath": "css/darkolivegreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkolivegreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkolivegreen.css",
@@ -693,6 +873,12 @@
 		{
 			"name": "DarkOrange",
 			"lowername": "darkorange",
+			"hex": "#ff8c00",
+			"rgb": [
+				255,
+				140,
+				0
+			],
 			"cssPath": "css/darkorange.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkorange.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkorange.css",
@@ -716,6 +902,12 @@
 		{
 			"name": "DarkOrchid",
 			"lowername": "darkorchid",
+			"hex": "#9932cc",
+			"rgb": [
+				153,
+				50,
+				204
+			],
 			"cssPath": "css/darkorchid.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkorchid.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkorchid.css",
@@ -739,6 +931,12 @@
 		{
 			"name": "DarkRed",
 			"lowername": "darkred",
+			"hex": "#8b0000",
+			"rgb": [
+				139,
+				0,
+				0
+			],
 			"cssPath": "css/darkred.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkred.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkred.css",
@@ -762,6 +960,12 @@
 		{
 			"name": "DarkSalmon",
 			"lowername": "darksalmon",
+			"hex": "#e9967a",
+			"rgb": [
+				233,
+				150,
+				122
+			],
 			"cssPath": "css/darksalmon.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darksalmon.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darksalmon.css",
@@ -785,6 +989,12 @@
 		{
 			"name": "DarkSeaGreen",
 			"lowername": "darkseagreen",
+			"hex": "#8fbc8f",
+			"rgb": [
+				143,
+				188,
+				143
+			],
 			"cssPath": "css/darkseagreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkseagreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkseagreen.css",
@@ -808,6 +1018,12 @@
 		{
 			"name": "DarkSlateBlue",
 			"lowername": "darkslateblue",
+			"hex": "#483d8b",
+			"rgb": [
+				72,
+				61,
+				139
+			],
 			"cssPath": "css/darkslateblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkslateblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkslateblue.css",
@@ -831,6 +1047,12 @@
 		{
 			"name": "DarkSlateGray",
 			"lowername": "darkslategray",
+			"hex": "#2f4f4f",
+			"rgb": [
+				47,
+				79,
+				79
+			],
 			"cssPath": "css/darkslategray.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkslategray.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkslategray.css",
@@ -854,6 +1076,12 @@
 		{
 			"name": "DarkSlateGrey",
 			"lowername": "darkslategrey",
+			"hex": "#2f4f4f",
+			"rgb": [
+				47,
+				79,
+				79
+			],
 			"cssPath": "css/darkslategrey.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkslategrey.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkslategrey.css",
@@ -877,6 +1105,12 @@
 		{
 			"name": "DarkTurquoise",
 			"lowername": "darkturquoise",
+			"hex": "#00ced1",
+			"rgb": [
+				0,
+				206,
+				209
+			],
 			"cssPath": "css/darkturquoise.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkturquoise.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkturquoise.css",
@@ -900,6 +1134,12 @@
 		{
 			"name": "DarkViolet",
 			"lowername": "darkviolet",
+			"hex": "#9400d3",
+			"rgb": [
+				148,
+				0,
+				211
+			],
 			"cssPath": "css/darkviolet.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/darkviolet.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/darkviolet.css",
@@ -923,6 +1163,12 @@
 		{
 			"name": "DeepPink",
 			"lowername": "deeppink",
+			"hex": "#ff1493",
+			"rgb": [
+				255,
+				20,
+				147
+			],
 			"cssPath": "css/deeppink.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/deeppink.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/deeppink.css",
@@ -946,6 +1192,12 @@
 		{
 			"name": "DeepSkyBlue",
 			"lowername": "deepskyblue",
+			"hex": "#00bfff",
+			"rgb": [
+				0,
+				191,
+				255
+			],
 			"cssPath": "css/deepskyblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/deepskyblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/deepskyblue.css",
@@ -969,6 +1221,12 @@
 		{
 			"name": "DimGray",
 			"lowername": "dimgray",
+			"hex": "#696969",
+			"rgb": [
+				105,
+				105,
+				105
+			],
 			"cssPath": "css/dimgray.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/dimgray.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/dimgray.css",
@@ -992,6 +1250,12 @@
 		{
 			"name": "DimGrey",
 			"lowername": "dimgrey",
+			"hex": "#696969",
+			"rgb": [
+				105,
+				105,
+				105
+			],
 			"cssPath": "css/dimgrey.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/dimgrey.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/dimgrey.css",
@@ -1015,6 +1279,12 @@
 		{
 			"name": "DodgerBlue",
 			"lowername": "dodgerblue",
+			"hex": "#1e90ff",
+			"rgb": [
+				30,
+				144,
+				255
+			],
 			"cssPath": "css/dodgerblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/dodgerblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/dodgerblue.css",
@@ -1038,6 +1308,12 @@
 		{
 			"name": "FireBrick",
 			"lowername": "firebrick",
+			"hex": "#b22222",
+			"rgb": [
+				178,
+				34,
+				34
+			],
 			"cssPath": "css/firebrick.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/firebrick.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/firebrick.css",
@@ -1061,6 +1337,12 @@
 		{
 			"name": "FloralWhite",
 			"lowername": "floralwhite",
+			"hex": "#fffaf0",
+			"rgb": [
+				255,
+				250,
+				240
+			],
 			"cssPath": "css/floralwhite.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/floralwhite.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/floralwhite.css",
@@ -1084,6 +1366,12 @@
 		{
 			"name": "ForestGreen",
 			"lowername": "forestgreen",
+			"hex": "#228b22",
+			"rgb": [
+				34,
+				139,
+				34
+			],
 			"cssPath": "css/forestgreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/forestgreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/forestgreen.css",
@@ -1107,6 +1395,12 @@
 		{
 			"name": "Fuchsia",
 			"lowername": "fuchsia",
+			"hex": "#ff00ff",
+			"rgb": [
+				255,
+				0,
+				255
+			],
 			"cssPath": "css/fuchsia.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/fuchsia.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/fuchsia.css",
@@ -1130,6 +1424,12 @@
 		{
 			"name": "Gainsboro",
 			"lowername": "gainsboro",
+			"hex": "#dcdcdc",
+			"rgb": [
+				220,
+				220,
+				220
+			],
 			"cssPath": "css/gainsboro.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/gainsboro.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/gainsboro.css",
@@ -1153,6 +1453,12 @@
 		{
 			"name": "GhostWhite",
 			"lowername": "ghostwhite",
+			"hex": "#f8f8ff",
+			"rgb": [
+				248,
+				248,
+				255
+			],
 			"cssPath": "css/ghostwhite.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/ghostwhite.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/ghostwhite.css",
@@ -1176,6 +1482,12 @@
 		{
 			"name": "Gold",
 			"lowername": "gold",
+			"hex": "#ffd700",
+			"rgb": [
+				255,
+				215,
+				0
+			],
 			"cssPath": "css/gold.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/gold.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/gold.css",
@@ -1199,6 +1511,12 @@
 		{
 			"name": "GoldenRod",
 			"lowername": "goldenrod",
+			"hex": "#daa520",
+			"rgb": [
+				218,
+				165,
+				32
+			],
 			"cssPath": "css/goldenrod.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/goldenrod.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/goldenrod.css",
@@ -1222,6 +1540,12 @@
 		{
 			"name": "Gray",
 			"lowername": "gray",
+			"hex": "#808080",
+			"rgb": [
+				128,
+				128,
+				128
+			],
 			"cssPath": "css/gray.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/gray.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/gray.css",
@@ -1245,6 +1569,12 @@
 		{
 			"name": "Grey",
 			"lowername": "grey",
+			"hex": "#808080",
+			"rgb": [
+				128,
+				128,
+				128
+			],
 			"cssPath": "css/grey.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/grey.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/grey.css",
@@ -1268,6 +1598,12 @@
 		{
 			"name": "Green",
 			"lowername": "green",
+			"hex": "#008000",
+			"rgb": [
+				0,
+				128,
+				0
+			],
 			"cssPath": "css/green.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/green.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/green.css",
@@ -1291,6 +1627,12 @@
 		{
 			"name": "GreenYellow",
 			"lowername": "greenyellow",
+			"hex": "#adff2f",
+			"rgb": [
+				173,
+				255,
+				47
+			],
 			"cssPath": "css/greenyellow.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/greenyellow.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/greenyellow.css",
@@ -1314,6 +1656,12 @@
 		{
 			"name": "HoneyDew",
 			"lowername": "honeydew",
+			"hex": "#f0fff0",
+			"rgb": [
+				240,
+				255,
+				240
+			],
 			"cssPath": "css/honeydew.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/honeydew.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/honeydew.css",
@@ -1337,6 +1685,12 @@
 		{
 			"name": "HotPink",
 			"lowername": "hotpink",
+			"hex": "#ff69b4",
+			"rgb": [
+				255,
+				105,
+				180
+			],
 			"cssPath": "css/hotpink.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/hotpink.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/hotpink.css",
@@ -1360,6 +1714,12 @@
 		{
 			"name": "IndianRed",
 			"lowername": "indianred",
+			"hex": "#cd5c5c",
+			"rgb": [
+				205,
+				92,
+				92
+			],
 			"cssPath": "css/indianred.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/indianred.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/indianred.css",
@@ -1383,6 +1743,12 @@
 		{
 			"name": "Indigo",
 			"lowername": "indigo",
+			"hex": "#4b0082",
+			"rgb": [
+				75,
+				0,
+				130
+			],
 			"cssPath": "css/indigo.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/indigo.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/indigo.css",
@@ -1406,6 +1772,12 @@
 		{
 			"name": "Ivory",
 			"lowername": "ivory",
+			"hex": "#fffff0",
+			"rgb": [
+				255,
+				255,
+				240
+			],
 			"cssPath": "css/ivory.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/ivory.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/ivory.css",
@@ -1429,6 +1801,12 @@
 		{
 			"name": "Khaki",
 			"lowername": "khaki",
+			"hex": "#f0e68c",
+			"rgb": [
+				240,
+				230,
+				140
+			],
 			"cssPath": "css/khaki.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/khaki.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/khaki.css",
@@ -1452,6 +1830,12 @@
 		{
 			"name": "Lavender",
 			"lowername": "lavender",
+			"hex": "#e6e6fa",
+			"rgb": [
+				230,
+				230,
+				250
+			],
 			"cssPath": "css/lavender.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lavender.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lavender.css",
@@ -1475,6 +1859,12 @@
 		{
 			"name": "LavenderBlush",
 			"lowername": "lavenderblush",
+			"hex": "#fff0f5",
+			"rgb": [
+				255,
+				240,
+				245
+			],
 			"cssPath": "css/lavenderblush.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lavenderblush.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lavenderblush.css",
@@ -1498,6 +1888,12 @@
 		{
 			"name": "LawnGreen",
 			"lowername": "lawngreen",
+			"hex": "#7cfc00",
+			"rgb": [
+				124,
+				252,
+				0
+			],
 			"cssPath": "css/lawngreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lawngreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lawngreen.css",
@@ -1521,6 +1917,12 @@
 		{
 			"name": "LemonChiffon",
 			"lowername": "lemonchiffon",
+			"hex": "#fffacd",
+			"rgb": [
+				255,
+				250,
+				205
+			],
 			"cssPath": "css/lemonchiffon.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lemonchiffon.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lemonchiffon.css",
@@ -1544,6 +1946,12 @@
 		{
 			"name": "LightBlue",
 			"lowername": "lightblue",
+			"hex": "#add8e6",
+			"rgb": [
+				173,
+				216,
+				230
+			],
 			"cssPath": "css/lightblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightblue.css",
@@ -1567,6 +1975,12 @@
 		{
 			"name": "LightCoral",
 			"lowername": "lightcoral",
+			"hex": "#f08080",
+			"rgb": [
+				240,
+				128,
+				128
+			],
 			"cssPath": "css/lightcoral.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightcoral.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightcoral.css",
@@ -1590,6 +2004,12 @@
 		{
 			"name": "LightCyan",
 			"lowername": "lightcyan",
+			"hex": "#e0ffff",
+			"rgb": [
+				224,
+				255,
+				255
+			],
 			"cssPath": "css/lightcyan.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightcyan.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightcyan.css",
@@ -1613,6 +2033,12 @@
 		{
 			"name": "LightGoldenRodYellow",
 			"lowername": "lightgoldenrodyellow",
+			"hex": "#fafad2",
+			"rgb": [
+				250,
+				250,
+				210
+			],
 			"cssPath": "css/lightgoldenrodyellow.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightgoldenrodyellow.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightgoldenrodyellow.css",
@@ -1636,6 +2062,12 @@
 		{
 			"name": "LightGray",
 			"lowername": "lightgray",
+			"hex": "#d3d3d3",
+			"rgb": [
+				211,
+				211,
+				211
+			],
 			"cssPath": "css/lightgray.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightgray.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightgray.css",
@@ -1659,6 +2091,12 @@
 		{
 			"name": "LightGrey",
 			"lowername": "lightgrey",
+			"hex": "#d3d3d3",
+			"rgb": [
+				211,
+				211,
+				211
+			],
 			"cssPath": "css/lightgrey.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightgrey.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightgrey.css",
@@ -1682,6 +2120,12 @@
 		{
 			"name": "LightGreen",
 			"lowername": "lightgreen",
+			"hex": "#90ee90",
+			"rgb": [
+				144,
+				238,
+				144
+			],
 			"cssPath": "css/lightgreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightgreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightgreen.css",
@@ -1705,6 +2149,12 @@
 		{
 			"name": "LightPink",
 			"lowername": "lightpink",
+			"hex": "#ffb6c1",
+			"rgb": [
+				255,
+				182,
+				193
+			],
 			"cssPath": "css/lightpink.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightpink.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightpink.css",
@@ -1728,6 +2178,12 @@
 		{
 			"name": "LightSalmon",
 			"lowername": "lightsalmon",
+			"hex": "#ffa07a",
+			"rgb": [
+				255,
+				160,
+				122
+			],
 			"cssPath": "css/lightsalmon.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightsalmon.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightsalmon.css",
@@ -1751,6 +2207,12 @@
 		{
 			"name": "LightSeaGreen",
 			"lowername": "lightseagreen",
+			"hex": "#20b2aa",
+			"rgb": [
+				32,
+				178,
+				170
+			],
 			"cssPath": "css/lightseagreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightseagreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightseagreen.css",
@@ -1774,6 +2236,12 @@
 		{
 			"name": "LightSkyBlue",
 			"lowername": "lightskyblue",
+			"hex": "#87cefa",
+			"rgb": [
+				135,
+				206,
+				250
+			],
 			"cssPath": "css/lightskyblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightskyblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightskyblue.css",
@@ -1797,6 +2265,12 @@
 		{
 			"name": "LightSlateGray",
 			"lowername": "lightslategray",
+			"hex": "#778899",
+			"rgb": [
+				119,
+				136,
+				153
+			],
 			"cssPath": "css/lightslategray.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightslategray.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightslategray.css",
@@ -1820,6 +2294,12 @@
 		{
 			"name": "LightSlateGrey",
 			"lowername": "lightslategrey",
+			"hex": "#778899",
+			"rgb": [
+				119,
+				136,
+				153
+			],
 			"cssPath": "css/lightslategrey.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightslategrey.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightslategrey.css",
@@ -1843,6 +2323,12 @@
 		{
 			"name": "LightSteelBlue",
 			"lowername": "lightsteelblue",
+			"hex": "#b0c4de",
+			"rgb": [
+				176,
+				196,
+				222
+			],
 			"cssPath": "css/lightsteelblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightsteelblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightsteelblue.css",
@@ -1866,6 +2352,12 @@
 		{
 			"name": "LightYellow",
 			"lowername": "lightyellow",
+			"hex": "#ffffe0",
+			"rgb": [
+				255,
+				255,
+				224
+			],
 			"cssPath": "css/lightyellow.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lightyellow.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lightyellow.css",
@@ -1889,6 +2381,12 @@
 		{
 			"name": "Lime",
 			"lowername": "lime",
+			"hex": "#00ff00",
+			"rgb": [
+				0,
+				255,
+				0
+			],
 			"cssPath": "css/lime.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/lime.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/lime.css",
@@ -1912,6 +2410,12 @@
 		{
 			"name": "LimeGreen",
 			"lowername": "limegreen",
+			"hex": "#32cd32",
+			"rgb": [
+				50,
+				205,
+				50
+			],
 			"cssPath": "css/limegreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/limegreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/limegreen.css",
@@ -1935,6 +2439,12 @@
 		{
 			"name": "Linen",
 			"lowername": "linen",
+			"hex": "#faf0e6",
+			"rgb": [
+				250,
+				240,
+				230
+			],
 			"cssPath": "css/linen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/linen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/linen.css",
@@ -1958,6 +2468,12 @@
 		{
 			"name": "Magenta",
 			"lowername": "magenta",
+			"hex": "#ff00ff",
+			"rgb": [
+				255,
+				0,
+				255
+			],
 			"cssPath": "css/magenta.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/magenta.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/magenta.css",
@@ -1981,6 +2497,12 @@
 		{
 			"name": "Maroon",
 			"lowername": "maroon",
+			"hex": "#800000",
+			"rgb": [
+				128,
+				0,
+				0
+			],
 			"cssPath": "css/maroon.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/maroon.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/maroon.css",
@@ -2004,6 +2526,12 @@
 		{
 			"name": "MediumAquaMarine",
 			"lowername": "mediumaquamarine",
+			"hex": "#66cdaa",
+			"rgb": [
+				102,
+				205,
+				170
+			],
 			"cssPath": "css/mediumaquamarine.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumaquamarine.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumaquamarine.css",
@@ -2027,6 +2555,12 @@
 		{
 			"name": "MediumBlue",
 			"lowername": "mediumblue",
+			"hex": "#0000cd",
+			"rgb": [
+				0,
+				0,
+				205
+			],
 			"cssPath": "css/mediumblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumblue.css",
@@ -2050,6 +2584,12 @@
 		{
 			"name": "MediumOrchid",
 			"lowername": "mediumorchid",
+			"hex": "#ba55d3",
+			"rgb": [
+				186,
+				85,
+				211
+			],
 			"cssPath": "css/mediumorchid.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumorchid.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumorchid.css",
@@ -2073,6 +2613,12 @@
 		{
 			"name": "MediumPurple",
 			"lowername": "mediumpurple",
+			"hex": "#9370db",
+			"rgb": [
+				147,
+				112,
+				219
+			],
 			"cssPath": "css/mediumpurple.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumpurple.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumpurple.css",
@@ -2096,6 +2642,12 @@
 		{
 			"name": "MediumSeaGreen",
 			"lowername": "mediumseagreen",
+			"hex": "#3cb371",
+			"rgb": [
+				60,
+				179,
+				113
+			],
 			"cssPath": "css/mediumseagreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumseagreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumseagreen.css",
@@ -2119,6 +2671,12 @@
 		{
 			"name": "MediumSlateBlue",
 			"lowername": "mediumslateblue",
+			"hex": "#7b68ee",
+			"rgb": [
+				123,
+				104,
+				238
+			],
 			"cssPath": "css/mediumslateblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumslateblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumslateblue.css",
@@ -2142,6 +2700,12 @@
 		{
 			"name": "MediumSpringGreen",
 			"lowername": "mediumspringgreen",
+			"hex": "#00fa9a",
+			"rgb": [
+				0,
+				250,
+				154
+			],
 			"cssPath": "css/mediumspringgreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumspringgreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumspringgreen.css",
@@ -2165,6 +2729,12 @@
 		{
 			"name": "MediumTurquoise",
 			"lowername": "mediumturquoise",
+			"hex": "#48d1cc",
+			"rgb": [
+				72,
+				209,
+				204
+			],
 			"cssPath": "css/mediumturquoise.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumturquoise.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumturquoise.css",
@@ -2188,6 +2758,12 @@
 		{
 			"name": "MediumVioletRed",
 			"lowername": "mediumvioletred",
+			"hex": "#c71585",
+			"rgb": [
+				199,
+				21,
+				133
+			],
 			"cssPath": "css/mediumvioletred.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mediumvioletred.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mediumvioletred.css",
@@ -2211,6 +2787,12 @@
 		{
 			"name": "MidnightBlue",
 			"lowername": "midnightblue",
+			"hex": "#191970",
+			"rgb": [
+				25,
+				25,
+				112
+			],
 			"cssPath": "css/midnightblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/midnightblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/midnightblue.css",
@@ -2234,6 +2816,12 @@
 		{
 			"name": "MintCream",
 			"lowername": "mintcream",
+			"hex": "#f5fffa",
+			"rgb": [
+				245,
+				255,
+				250
+			],
 			"cssPath": "css/mintcream.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mintcream.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mintcream.css",
@@ -2257,6 +2845,12 @@
 		{
 			"name": "MistyRose",
 			"lowername": "mistyrose",
+			"hex": "#ffe4e1",
+			"rgb": [
+				255,
+				228,
+				225
+			],
 			"cssPath": "css/mistyrose.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/mistyrose.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/mistyrose.css",
@@ -2280,6 +2874,12 @@
 		{
 			"name": "Moccasin",
 			"lowername": "moccasin",
+			"hex": "#ffe4b5",
+			"rgb": [
+				255,
+				228,
+				181
+			],
 			"cssPath": "css/moccasin.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/moccasin.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/moccasin.css",
@@ -2303,6 +2903,12 @@
 		{
 			"name": "NavajoWhite",
 			"lowername": "navajowhite",
+			"hex": "#ffdead",
+			"rgb": [
+				255,
+				222,
+				173
+			],
 			"cssPath": "css/navajowhite.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/navajowhite.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/navajowhite.css",
@@ -2326,6 +2932,12 @@
 		{
 			"name": "Navy",
 			"lowername": "navy",
+			"hex": "#000080",
+			"rgb": [
+				0,
+				0,
+				128
+			],
 			"cssPath": "css/navy.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/navy.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/navy.css",
@@ -2349,6 +2961,12 @@
 		{
 			"name": "OldLace",
 			"lowername": "oldlace",
+			"hex": "#fdf5e6",
+			"rgb": [
+				253,
+				245,
+				230
+			],
 			"cssPath": "css/oldlace.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/oldlace.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/oldlace.css",
@@ -2372,6 +2990,12 @@
 		{
 			"name": "Olive",
 			"lowername": "olive",
+			"hex": "#808000",
+			"rgb": [
+				128,
+				128,
+				0
+			],
 			"cssPath": "css/olive.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/olive.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/olive.css",
@@ -2395,6 +3019,12 @@
 		{
 			"name": "OliveDrab",
 			"lowername": "olivedrab",
+			"hex": "#6b8e23",
+			"rgb": [
+				107,
+				142,
+				35
+			],
 			"cssPath": "css/olivedrab.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/olivedrab.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/olivedrab.css",
@@ -2418,6 +3048,12 @@
 		{
 			"name": "Orange",
 			"lowername": "orange",
+			"hex": "#ffa500",
+			"rgb": [
+				255,
+				165,
+				0
+			],
 			"cssPath": "css/orange.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/orange.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/orange.css",
@@ -2441,6 +3077,12 @@
 		{
 			"name": "OrangeRed",
 			"lowername": "orangered",
+			"hex": "#ff4500",
+			"rgb": [
+				255,
+				69,
+				0
+			],
 			"cssPath": "css/orangered.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/orangered.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/orangered.css",
@@ -2464,6 +3106,12 @@
 		{
 			"name": "Orchid",
 			"lowername": "orchid",
+			"hex": "#da70d6",
+			"rgb": [
+				218,
+				112,
+				214
+			],
 			"cssPath": "css/orchid.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/orchid.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/orchid.css",
@@ -2487,6 +3135,12 @@
 		{
 			"name": "PaleGoldenRod",
 			"lowername": "palegoldenrod",
+			"hex": "#eee8aa",
+			"rgb": [
+				238,
+				232,
+				170
+			],
 			"cssPath": "css/palegoldenrod.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/palegoldenrod.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/palegoldenrod.css",
@@ -2510,6 +3164,12 @@
 		{
 			"name": "PaleGreen",
 			"lowername": "palegreen",
+			"hex": "#98fb98",
+			"rgb": [
+				152,
+				251,
+				152
+			],
 			"cssPath": "css/palegreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/palegreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/palegreen.css",
@@ -2533,6 +3193,12 @@
 		{
 			"name": "PaleTurquoise",
 			"lowername": "paleturquoise",
+			"hex": "#afeeee",
+			"rgb": [
+				175,
+				238,
+				238
+			],
 			"cssPath": "css/paleturquoise.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/paleturquoise.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/paleturquoise.css",
@@ -2556,6 +3222,12 @@
 		{
 			"name": "PaleVioletRed",
 			"lowername": "palevioletred",
+			"hex": "#db7093",
+			"rgb": [
+				219,
+				112,
+				147
+			],
 			"cssPath": "css/palevioletred.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/palevioletred.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/palevioletred.css",
@@ -2579,6 +3251,12 @@
 		{
 			"name": "PapayaWhip",
 			"lowername": "papayawhip",
+			"hex": "#ffefd5",
+			"rgb": [
+				255,
+				239,
+				213
+			],
 			"cssPath": "css/papayawhip.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/papayawhip.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/papayawhip.css",
@@ -2602,6 +3280,12 @@
 		{
 			"name": "PeachPuff",
 			"lowername": "peachpuff",
+			"hex": "#ffdab9",
+			"rgb": [
+				255,
+				218,
+				185
+			],
 			"cssPath": "css/peachpuff.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/peachpuff.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/peachpuff.css",
@@ -2625,6 +3309,12 @@
 		{
 			"name": "Peru",
 			"lowername": "peru",
+			"hex": "#cd853f",
+			"rgb": [
+				205,
+				133,
+				63
+			],
 			"cssPath": "css/peru.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/peru.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/peru.css",
@@ -2648,6 +3338,12 @@
 		{
 			"name": "Pink",
 			"lowername": "pink",
+			"hex": "#ffc0cb",
+			"rgb": [
+				255,
+				192,
+				203
+			],
 			"cssPath": "css/pink.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/pink.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/pink.css",
@@ -2671,6 +3367,12 @@
 		{
 			"name": "Plum",
 			"lowername": "plum",
+			"hex": "#dda0dd",
+			"rgb": [
+				221,
+				160,
+				221
+			],
 			"cssPath": "css/plum.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/plum.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/plum.css",
@@ -2694,6 +3396,12 @@
 		{
 			"name": "PowderBlue",
 			"lowername": "powderblue",
+			"hex": "#b0e0e6",
+			"rgb": [
+				176,
+				224,
+				230
+			],
 			"cssPath": "css/powderblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/powderblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/powderblue.css",
@@ -2717,6 +3425,12 @@
 		{
 			"name": "Purple",
 			"lowername": "purple",
+			"hex": "#800080",
+			"rgb": [
+				128,
+				0,
+				128
+			],
 			"cssPath": "css/purple.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/purple.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/purple.css",
@@ -2740,6 +3454,12 @@
 		{
 			"name": "RebeccaPurple",
 			"lowername": "rebeccapurple",
+			"hex": "#663399",
+			"rgb": [
+				102,
+				51,
+				153
+			],
 			"cssPath": "css/rebeccapurple.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/rebeccapurple.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/rebeccapurple.css",
@@ -2763,6 +3483,12 @@
 		{
 			"name": "Red",
 			"lowername": "red",
+			"hex": "#ff0000",
+			"rgb": [
+				255,
+				0,
+				0
+			],
 			"cssPath": "css/red.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/red.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/red.css",
@@ -2786,6 +3512,12 @@
 		{
 			"name": "RosyBrown",
 			"lowername": "rosybrown",
+			"hex": "#bc8f8f",
+			"rgb": [
+				188,
+				143,
+				143
+			],
 			"cssPath": "css/rosybrown.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/rosybrown.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/rosybrown.css",
@@ -2809,6 +3541,12 @@
 		{
 			"name": "RoyalBlue",
 			"lowername": "royalblue",
+			"hex": "#4169e1",
+			"rgb": [
+				65,
+				105,
+				225
+			],
 			"cssPath": "css/royalblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/royalblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/royalblue.css",
@@ -2832,6 +3570,12 @@
 		{
 			"name": "SaddleBrown",
 			"lowername": "saddlebrown",
+			"hex": "#8b4513",
+			"rgb": [
+				139,
+				69,
+				19
+			],
 			"cssPath": "css/saddlebrown.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/saddlebrown.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/saddlebrown.css",
@@ -2855,6 +3599,12 @@
 		{
 			"name": "Salmon",
 			"lowername": "salmon",
+			"hex": "#fa8072",
+			"rgb": [
+				250,
+				128,
+				114
+			],
 			"cssPath": "css/salmon.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/salmon.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/salmon.css",
@@ -2878,6 +3628,12 @@
 		{
 			"name": "SandyBrown",
 			"lowername": "sandybrown",
+			"hex": "#f4a460",
+			"rgb": [
+				244,
+				164,
+				96
+			],
 			"cssPath": "css/sandybrown.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/sandybrown.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/sandybrown.css",
@@ -2901,6 +3657,12 @@
 		{
 			"name": "SeaGreen",
 			"lowername": "seagreen",
+			"hex": "#2e8b57",
+			"rgb": [
+				46,
+				139,
+				87
+			],
 			"cssPath": "css/seagreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/seagreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/seagreen.css",
@@ -2924,6 +3686,12 @@
 		{
 			"name": "SeaShell",
 			"lowername": "seashell",
+			"hex": "#fff5ee",
+			"rgb": [
+				255,
+				245,
+				238
+			],
 			"cssPath": "css/seashell.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/seashell.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/seashell.css",
@@ -2947,6 +3715,12 @@
 		{
 			"name": "Sienna",
 			"lowername": "sienna",
+			"hex": "#a0522d",
+			"rgb": [
+				160,
+				82,
+				45
+			],
 			"cssPath": "css/sienna.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/sienna.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/sienna.css",
@@ -2970,6 +3744,12 @@
 		{
 			"name": "Silver",
 			"lowername": "silver",
+			"hex": "#c0c0c0",
+			"rgb": [
+				192,
+				192,
+				192
+			],
 			"cssPath": "css/silver.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/silver.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/silver.css",
@@ -2993,6 +3773,12 @@
 		{
 			"name": "SkyBlue",
 			"lowername": "skyblue",
+			"hex": "#87ceeb",
+			"rgb": [
+				135,
+				206,
+				235
+			],
 			"cssPath": "css/skyblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/skyblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/skyblue.css",
@@ -3016,6 +3802,12 @@
 		{
 			"name": "SlateBlue",
 			"lowername": "slateblue",
+			"hex": "#6a5acd",
+			"rgb": [
+				106,
+				90,
+				205
+			],
 			"cssPath": "css/slateblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/slateblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/slateblue.css",
@@ -3039,6 +3831,12 @@
 		{
 			"name": "SlateGray",
 			"lowername": "slategray",
+			"hex": "#708090",
+			"rgb": [
+				112,
+				128,
+				144
+			],
 			"cssPath": "css/slategray.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/slategray.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/slategray.css",
@@ -3062,6 +3860,12 @@
 		{
 			"name": "SlateGrey",
 			"lowername": "slategrey",
+			"hex": "#708090",
+			"rgb": [
+				112,
+				128,
+				144
+			],
 			"cssPath": "css/slategrey.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/slategrey.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/slategrey.css",
@@ -3085,6 +3889,12 @@
 		{
 			"name": "Snow",
 			"lowername": "snow",
+			"hex": "#fffafa",
+			"rgb": [
+				255,
+				250,
+				250
+			],
 			"cssPath": "css/snow.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/snow.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/snow.css",
@@ -3108,6 +3918,12 @@
 		{
 			"name": "SpringGreen",
 			"lowername": "springgreen",
+			"hex": "#00ff7f",
+			"rgb": [
+				0,
+				255,
+				127
+			],
 			"cssPath": "css/springgreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/springgreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/springgreen.css",
@@ -3131,6 +3947,12 @@
 		{
 			"name": "SteelBlue",
 			"lowername": "steelblue",
+			"hex": "#4682b4",
+			"rgb": [
+				70,
+				130,
+				180
+			],
 			"cssPath": "css/steelblue.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/steelblue.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/steelblue.css",
@@ -3154,6 +3976,12 @@
 		{
 			"name": "Tan",
 			"lowername": "tan",
+			"hex": "#d2b48c",
+			"rgb": [
+				210,
+				180,
+				140
+			],
 			"cssPath": "css/tan.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/tan.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/tan.css",
@@ -3177,6 +4005,12 @@
 		{
 			"name": "Teal",
 			"lowername": "teal",
+			"hex": "#008080",
+			"rgb": [
+				0,
+				128,
+				128
+			],
 			"cssPath": "css/teal.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/teal.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/teal.css",
@@ -3200,6 +4034,12 @@
 		{
 			"name": "Thistle",
 			"lowername": "thistle",
+			"hex": "#d8bfd8",
+			"rgb": [
+				216,
+				191,
+				216
+			],
 			"cssPath": "css/thistle.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/thistle.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/thistle.css",
@@ -3223,6 +4063,12 @@
 		{
 			"name": "Tomato",
 			"lowername": "tomato",
+			"hex": "#ff6347",
+			"rgb": [
+				255,
+				99,
+				71
+			],
 			"cssPath": "css/tomato.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/tomato.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/tomato.css",
@@ -3246,6 +4092,12 @@
 		{
 			"name": "Turquoise",
 			"lowername": "turquoise",
+			"hex": "#40e0d0",
+			"rgb": [
+				64,
+				224,
+				208
+			],
 			"cssPath": "css/turquoise.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/turquoise.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/turquoise.css",
@@ -3269,6 +4121,12 @@
 		{
 			"name": "Violet",
 			"lowername": "violet",
+			"hex": "#ee82ee",
+			"rgb": [
+				238,
+				130,
+				238
+			],
 			"cssPath": "css/violet.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/violet.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/violet.css",
@@ -3292,6 +4150,12 @@
 		{
 			"name": "Wheat",
 			"lowername": "wheat",
+			"hex": "#f5deb3",
+			"rgb": [
+				245,
+				222,
+				179
+			],
 			"cssPath": "css/wheat.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/wheat.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/wheat.css",
@@ -3315,6 +4179,12 @@
 		{
 			"name": "White",
 			"lowername": "white",
+			"hex": "#ffffff",
+			"rgb": [
+				255,
+				255,
+				255
+			],
 			"cssPath": "css/white.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/white.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/white.css",
@@ -3338,6 +4208,12 @@
 		{
 			"name": "WhiteSmoke",
 			"lowername": "whitesmoke",
+			"hex": "#f5f5f5",
+			"rgb": [
+				245,
+				245,
+				245
+			],
 			"cssPath": "css/whitesmoke.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/whitesmoke.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/whitesmoke.css",
@@ -3361,6 +4237,12 @@
 		{
 			"name": "Yellow",
 			"lowername": "yellow",
+			"hex": "#ffff00",
+			"rgb": [
+				255,
+				255,
+				0
+			],
 			"cssPath": "css/yellow.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/yellow.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/yellow.css",
@@ -3384,6 +4266,12 @@
 		{
 			"name": "YellowGreen",
 			"lowername": "yellowgreen",
+			"hex": "#9acd32",
+			"rgb": [
+				154,
+				205,
+				50
+			],
 			"cssPath": "css/yellowgreen.css",
 			"cssGithub": "https://github.com/iaseth/html-color-names/blob/master/css/yellowgreen.css",
 			"cssGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/css/yellowgreen.css",
