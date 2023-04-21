@@ -23,6 +23,20 @@ class PyColor:
 		self.json_github = f"https://github.com/iaseth/html-color-names/blob/master/json/{self.lowername}.json"
 		self.json_github_raw = f"https://raw.githubusercontent.com/iaseth/html-color-names/master/json/{self.lowername}.json"
 
+	def as_object(self):
+		jo = {}
+		jo["name"] = self.name
+		jo["lowername"] = self.lowername
+
+		jo["cssPath"] = self.csspath
+		jo["cssGithub"] = self.css_github
+		jo["cssGithubRaw"] = self.css_github_raw
+
+		jo["jsonPath"] = self.jsonpath
+		jo["jsonGithub"] = self.json_github
+		jo["jsonGithubRaw"] = self.json_github_raw
+		return jo
+
 
 
 	def get_middle_colors(self, other, count=5):

@@ -53,6 +53,21 @@ def generate_html(colors):
 	print(f"saved: {homepage_path}")
 
 
+def generate_master_json(colors):
+	jo = {}
+	jo["colors"] = []
+	for color in colors:
+		colorJson = {}
+		colorJson = color.as_object()
+		colorJson["palette"] = color.get_palette_json()[color.lowername]
+		jo["colors"].append(colorJson)
+
+	master_json_path = "master.json"
+	with open(master_json_path, "w") as f:
+		json.dump(jo, f, indent="\t")
+	print(f"saved: {master_json_path}")
+
+
 def main():
 	colorsJson = json.load(open("colors.json"))
 	colors = [get_color_from_json(jo) for jo in colorsJson["colors"]]
@@ -68,6 +83,8 @@ def main():
 		generate_json(colors)
 	elif command == "html":
 		generate_html(colors)
+	elif command == "masterjson":
+		generate_master_json(colors)
 	else:
 		generate_readme(colors)
 

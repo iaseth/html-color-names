@@ -13,6 +13,9 @@ json:
 html:
 	python generate.py html
 
+masterjson:
+	python generate.py masterjson
+
 clean:
 	@rm -rf css
 	@rm -rf json
