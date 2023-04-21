@@ -37,13 +37,22 @@ class PyColor:
 		return self.get_middle_colors(grey)
 
 	def get_palette(self):
-		palette = []
+		colors = []
 		tints = reversed(self.get_tints())
-		palette += tints
-		palette.append(self)
+		colors += tints
+		colors.append(self)
 
 		shades = self.get_shades()
-		palette += shades
+		colors += shades
+
+		values = [50, 100, 200, 300, 400, 500, 600, 700, 800, 900, 950]
+		palette = []
+		for idx, color in enumerate(colors):
+			entry = {}
+			entry["value"] = values[idx]
+			entry["hex"] = color.hex
+			entry["rgb"] = color.rgb
+			palette.append(entry)
 		return palette
 
 
