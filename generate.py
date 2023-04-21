@@ -21,11 +21,19 @@ def main():
 		f.write(readme_text)
 	print("saved: README.md")
 
+
+	color_css_template = jinja_env.get_template("color_css.txt")
 	for color in colors:
-		palette = color.get_palette()
-		for idx, c in enumerate(palette):
-			print(c)
-		break
+		csspath = color.csspath
+		css_text = color_css_template.render(
+			name=color.lowername,
+			palette=color.get_palette()
+		)
+
+		with open(csspath, "w") as f:
+			f.write(css_text)
+		print(f"saved: {csspath}")
+		# break
 
 
 if __name__ == '__main__':

@@ -9,6 +9,8 @@ class PyColor:
 		self.rgb = rgb
 		self.name = name
 		self.lowername = self.name.lower()
+		self.cssname = f"{self.lowername}.css"
+		self.csspath = f"css/{self.cssname}"
 		self.hex = get_hex_from_rgb(self.rgb)
 
 
