@@ -41,6 +41,18 @@ def generate_json(colors):
 		print(f"saved: {color.jsonpath}")
 
 
+def generate_html(colors):
+	homepage_html_template = jinja_env.get_template("homepage.html")
+	homepage_html_text = homepage_html_template.render(
+		colors=colors
+	)
+
+	homepage_path = "docs/index.html"
+	with open(homepage_path, "w") as f:
+		f.write(homepage_html_text)
+	print(f"saved: {homepage_path}")
+
+
 def main():
 	colorsJson = json.load(open("colors.json"))
 	colors = [get_color_from_json(jo) for jo in colorsJson["colors"]]
@@ -54,6 +66,8 @@ def main():
 		generate_css(colors)
 	elif command == "json":
 		generate_json(colors)
+	elif command == "html":
+		generate_html(colors)
 	else:
 		generate_readme(colors)
 

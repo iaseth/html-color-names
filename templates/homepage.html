@@ -1,0 +1,82 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>HTML Colors</title>
+</head>
+<body>
+
+<style type="text/css">
+	body {
+		font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+		font-feature-settings: normal;
+		font-variation-settings: normal;
+		margin: 0;
+	}
+
+	section.palette:nth-child(odd) {
+		background-color: #e7e7e7;
+	}
+
+	article.palette {
+		max-width: 1080px;
+		margin: auto;
+		padding: 50px 10px;
+	}
+
+
+	article.palette > header {
+		padding: 0px 10px;
+	}
+
+	article.palette > footer {
+		padding: 0px 10px;
+	}
+
+	article.palette > footer > h4 > span {
+		padding: 0px 5px;
+	}
+
+	main.palette {
+		display: grid;
+		grid-template-columns: repeat(11, minmax(0, 1fr));
+		border: 2px solid #888;
+	}
+
+	main.palette > div.box {
+		height: 60px;
+	}
+</style>
+
+{% for color in colors %}
+<section class="palette">
+	<article class="palette">
+		<header>
+			<h2>{{ color.name }}</h2>
+		</header>
+
+		<main class="palette">
+			{% for shade in color.get_palette() %}
+				<div class="box" style="background-color: {{ shade["hex"] }}"></div>
+			{% endfor %}
+		</main>
+
+		<footer>
+			<h4>
+				<a href="{{ color.css_github }}">View CSS</a>
+				<span>&bull;</span>
+				<a href="{{ color.css_github_raw }}">Download CSS</a>
+			</h4>
+
+			<h4>
+				<a href="{{ color.json_github }}">View JSON</a>
+				<span>&bull;</span>
+				<a href="{{ color.json_github_raw }}">Download JSON</a>
+			</h4>
+		</footer>
+	</section>
+</main>
+{% endfor %}
+
+</body>
+</html>

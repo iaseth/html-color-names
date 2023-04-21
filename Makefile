@@ -10,6 +10,9 @@ css:
 json:
 	python generate.py json
 
+html:
+	python generate.py html
+
 clean:
 	@rm -rf css
 	@rm -rf json
