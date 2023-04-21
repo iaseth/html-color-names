@@ -1,154 +1,154 @@
 
 # html-color-names
 
-| # | Name | className | Hex |
-| --- | --- | --- | --- |
-| 1 | AliceBlue | aliceblue | #F0F8FF |
-| 2 | AntiqueWhite | antiquewhite | #FAEBD7 |
-| 3 | Aqua | aqua | #00FFFF |
-| 4 | Aquamarine | aquamarine | #7FFFD4 |
-| 5 | Azure | azure | #F0FFFF |
-| 6 | Beige | beige | #F5F5DC |
-| 7 | Bisque | bisque | #FFE4C4 |
-| 8 | Black | black | #000000 |
-| 9 | BlanchedAlmond | blanchedalmond | #FFEBCD |
-| 10 | Blue | blue | #0000FF |
-| 11 | BlueViolet | blueviolet | #8A2BE2 |
-| 12 | Brown | brown | #A52A2A |
-| 13 | BurlyWood | burlywood | #DEB887 |
-| 14 | CadetBlue | cadetblue | #5F9EA0 |
-| 15 | Chartreuse | chartreuse | #7FFF00 |
-| 16 | Chocolate | chocolate | #D2691E |
-| 17 | Coral | coral | #FF7F50 |
-| 18 | CornflowerBlue | cornflowerblue | #6495ED |
-| 19 | Cornsilk | cornsilk | #FFF8DC |
-| 20 | Crimson | crimson | #DC143C |
-| 21 | Cyan | cyan | #00FFFF |
-| 22 | DarkBlue | darkblue | #00008B |
-| 23 | DarkCyan | darkcyan | #008B8B |
-| 24 | DarkGoldenRod | darkgoldenrod | #B8860B |
-| 25 | DarkGray | darkgray | #A9A9A9 |
-| 26 | DarkGrey | darkgrey | #A9A9A9 |
-| 27 | DarkGreen | darkgreen | #006400 |
-| 28 | DarkKhaki | darkkhaki | #BDB76B |
-| 29 | DarkMagenta | darkmagenta | #8B008B |
-| 30 | DarkOliveGreen | darkolivegreen | #556B2F |
-| 31 | DarkOrange | darkorange | #FF8C00 |
-| 32 | DarkOrchid | darkorchid | #9932CC |
-| 33 | DarkRed | darkred | #8B0000 |
-| 34 | DarkSalmon | darksalmon | #E9967A |
-| 35 | DarkSeaGreen | darkseagreen | #8FBC8F |
-| 36 | DarkSlateBlue | darkslateblue | #483D8B |
-| 37 | DarkSlateGray | darkslategray | #2F4F4F |
-| 38 | DarkSlateGrey | darkslategrey | #2F4F4F |
-| 39 | DarkTurquoise | darkturquoise | #00CED1 |
-| 40 | DarkViolet | darkviolet | #9400D3 |
-| 41 | DeepPink | deeppink | #FF1493 |
-| 42 | DeepSkyBlue | deepskyblue | #00BFFF |
-| 43 | DimGray | dimgray | #696969 |
-| 44 | DimGrey | dimgrey | #696969 |
-| 45 | DodgerBlue | dodgerblue | #1E90FF |
-| 46 | FireBrick | firebrick | #B22222 |
-| 47 | FloralWhite | floralwhite | #FFFAF0 |
-| 48 | ForestGreen | forestgreen | #228B22 |
-| 49 | Fuchsia | fuchsia | #FF00FF |
-| 50 | Gainsboro | gainsboro | #DCDCDC |
-| 51 | GhostWhite | ghostwhite | #F8F8FF |
-| 52 | Gold | gold | #FFD700 |
-| 53 | GoldenRod | goldenrod | #DAA520 |
-| 54 | Gray | gray | #808080 |
-| 55 | Grey | grey | #808080 |
-| 56 | Green | green | #008000 |
-| 57 | GreenYellow | greenyellow | #ADFF2F |
-| 58 | HoneyDew | honeydew | #F0FFF0 |
-| 59 | HotPink | hotpink | #FF69B4 |
-| 60 | IndianRed | indianred | #CD5C5C |
-| 61 | Indigo | indigo | #4B0082 |
-| 62 | Ivory | ivory | #FFFFF0 |
-| 63 | Khaki | khaki | #F0E68C |
-| 64 | Lavender | lavender | #E6E6FA |
-| 65 | LavenderBlush | lavenderblush | #FFF0F5 |
-| 66 | LawnGreen | lawngreen | #7CFC00 |
-| 67 | LemonChiffon | lemonchiffon | #FFFACD |
-| 68 | LightBlue | lightblue | #ADD8E6 |
-| 69 | LightCoral | lightcoral | #F08080 |
-| 70 | LightCyan | lightcyan | #E0FFFF |
-| 71 | LightGoldenRodYellow | lightgoldenrodyellow | #FAFAD2 |
-| 72 | LightGray | lightgray | #D3D3D3 |
-| 73 | LightGrey | lightgrey | #D3D3D3 |
-| 74 | LightGreen | lightgreen | #90EE90 |
-| 75 | LightPink | lightpink | #FFB6C1 |
-| 76 | LightSalmon | lightsalmon | #FFA07A |
-| 77 | LightSeaGreen | lightseagreen | #20B2AA |
-| 78 | LightSkyBlue | lightskyblue | #87CEFA |
-| 79 | LightSlateGray | lightslategray | #778899 |
-| 80 | LightSlateGrey | lightslategrey | #778899 |
-| 81 | LightSteelBlue | lightsteelblue | #B0C4DE |
-| 82 | LightYellow | lightyellow | #FFFFE0 |
-| 83 | Lime | lime | #00FF00 |
-| 84 | LimeGreen | limegreen | #32CD32 |
-| 85 | Linen | linen | #FAF0E6 |
-| 86 | Magenta | magenta | #FF00FF |
-| 87 | Maroon | maroon | #800000 |
-| 88 | MediumAquaMarine | mediumaquamarine | #66CDAA |
-| 89 | MediumBlue | mediumblue | #0000CD |
-| 90 | MediumOrchid | mediumorchid | #BA55D3 |
-| 91 | MediumPurple | mediumpurple | #9370DB |
-| 92 | MediumSeaGreen | mediumseagreen | #3CB371 |
-| 93 | MediumSlateBlue | mediumslateblue | #7B68EE |
-| 94 | MediumSpringGreen | mediumspringgreen | #00FA9A |
-| 95 | MediumTurquoise | mediumturquoise | #48D1CC |
-| 96 | MediumVioletRed | mediumvioletred | #C71585 |
-| 97 | MidnightBlue | midnightblue | #191970 |
-| 98 | MintCream | mintcream | #F5FFFA |
-| 99 | MistyRose | mistyrose | #FFE4E1 |
-| 100 | Moccasin | moccasin | #FFE4B5 |
-| 101 | NavajoWhite | navajowhite | #FFDEAD |
-| 102 | Navy | navy | #000080 |
-| 103 | OldLace | oldlace | #FDF5E6 |
-| 104 | Olive | olive | #808000 |
-| 105 | OliveDrab | olivedrab | #6B8E23 |
-| 106 | Orange | orange | #FFA500 |
-| 107 | OrangeRed | orangered | #FF4500 |
-| 108 | Orchid | orchid | #DA70D6 |
-| 109 | PaleGoldenRod | palegoldenrod | #EEE8AA |
-| 110 | PaleGreen | palegreen | #98FB98 |
-| 111 | PaleTurquoise | paleturquoise | #AFEEEE |
-| 112 | PaleVioletRed | palevioletred | #DB7093 |
-| 113 | PapayaWhip | papayawhip | #FFEFD5 |
-| 114 | PeachPuff | peachpuff | #FFDAB9 |
-| 115 | Peru | peru | #CD853F |
-| 116 | Pink | pink | #FFC0CB |
-| 117 | Plum | plum | #DDA0DD |
-| 118 | PowderBlue | powderblue | #B0E0E6 |
-| 119 | Purple | purple | #800080 |
-| 120 | RebeccaPurple | rebeccapurple | #663399 |
-| 121 | Red | red | #FF0000 |
-| 122 | RosyBrown | rosybrown | #BC8F8F |
-| 123 | RoyalBlue | royalblue | #4169E1 |
-| 124 | SaddleBrown | saddlebrown | #8B4513 |
-| 125 | Salmon | salmon | #FA8072 |
-| 126 | SandyBrown | sandybrown | #F4A460 |
-| 127 | SeaGreen | seagreen | #2E8B57 |
-| 128 | SeaShell | seashell | #FFF5EE |
-| 129 | Sienna | sienna | #A0522D |
-| 130 | Silver | silver | #C0C0C0 |
-| 131 | SkyBlue | skyblue | #87CEEB |
-| 132 | SlateBlue | slateblue | #6A5ACD |
-| 133 | SlateGray | slategray | #708090 |
-| 134 | SlateGrey | slategrey | #708090 |
-| 135 | Snow | snow | #FFFAFA |
-| 136 | SpringGreen | springgreen | #00FF7F |
-| 137 | SteelBlue | steelblue | #4682B4 |
-| 138 | Tan | tan | #D2B48C |
-| 139 | Teal | teal | #008080 |
-| 140 | Thistle | thistle | #D8BFD8 |
-| 141 | Tomato | tomato | #FF6347 |
-| 142 | Turquoise | turquoise | #40E0D0 |
-| 143 | Violet | violet | #EE82EE |
-| 144 | Wheat | wheat | #F5DEB3 |
-| 145 | White | white | #FFFFFF |
-| 146 | WhiteSmoke | whitesmoke | #F5F5F5 |
-| 147 | Yellow | yellow | #FFFF00 |
-| 148 | YellowGreen | yellowgreen | #9ACD32 |
+| # | Name | className | Hex | CSS | JSON |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AliceBlue | aliceblue | #F0F8FF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/aliceblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/aliceblue.json) |
+| 2 | AntiqueWhite | antiquewhite | #FAEBD7 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/antiquewhite.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/antiquewhite.json) |
+| 3 | Aqua | aqua | #00FFFF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/aqua.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/aqua.json) |
+| 4 | Aquamarine | aquamarine | #7FFFD4 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/aquamarine.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/aquamarine.json) |
+| 5 | Azure | azure | #F0FFFF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/azure.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/azure.json) |
+| 6 | Beige | beige | #F5F5DC | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/beige.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/beige.json) |
+| 7 | Bisque | bisque | #FFE4C4 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/bisque.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/bisque.json) |
+| 8 | Black | black | #000000 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/black.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/black.json) |
+| 9 | BlanchedAlmond | blanchedalmond | #FFEBCD | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/blanchedalmond.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/blanchedalmond.json) |
+| 10 | Blue | blue | #0000FF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/blue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/blue.json) |
+| 11 | BlueViolet | blueviolet | #8A2BE2 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/blueviolet.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/blueviolet.json) |
+| 12 | Brown | brown | #A52A2A | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/brown.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/brown.json) |
+| 13 | BurlyWood | burlywood | #DEB887 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/burlywood.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/burlywood.json) |
+| 14 | CadetBlue | cadetblue | #5F9EA0 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/cadetblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/cadetblue.json) |
+| 15 | Chartreuse | chartreuse | #7FFF00 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/chartreuse.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/chartreuse.json) |
+| 16 | Chocolate | chocolate | #D2691E | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/chocolate.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/chocolate.json) |
+| 17 | Coral | coral | #FF7F50 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/coral.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/coral.json) |
+| 18 | CornflowerBlue | cornflowerblue | #6495ED | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/cornflowerblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/cornflowerblue.json) |
+| 19 | Cornsilk | cornsilk | #FFF8DC | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/cornsilk.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/cornsilk.json) |
+| 20 | Crimson | crimson | #DC143C | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/crimson.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/crimson.json) |
+| 21 | Cyan | cyan | #00FFFF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/cyan.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/cyan.json) |
+| 22 | DarkBlue | darkblue | #00008B | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkblue.json) |
+| 23 | DarkCyan | darkcyan | #008B8B | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkcyan.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkcyan.json) |
+| 24 | DarkGoldenRod | darkgoldenrod | #B8860B | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkgoldenrod.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkgoldenrod.json) |
+| 25 | DarkGray | darkgray | #A9A9A9 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkgray.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkgray.json) |
+| 26 | DarkGrey | darkgrey | #A9A9A9 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkgrey.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkgrey.json) |
+| 27 | DarkGreen | darkgreen | #006400 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkgreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkgreen.json) |
+| 28 | DarkKhaki | darkkhaki | #BDB76B | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkkhaki.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkkhaki.json) |
+| 29 | DarkMagenta | darkmagenta | #8B008B | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkmagenta.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkmagenta.json) |
+| 30 | DarkOliveGreen | darkolivegreen | #556B2F | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkolivegreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkolivegreen.json) |
+| 31 | DarkOrange | darkorange | #FF8C00 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkorange.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkorange.json) |
+| 32 | DarkOrchid | darkorchid | #9932CC | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkorchid.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkorchid.json) |
+| 33 | DarkRed | darkred | #8B0000 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkred.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkred.json) |
+| 34 | DarkSalmon | darksalmon | #E9967A | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darksalmon.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darksalmon.json) |
+| 35 | DarkSeaGreen | darkseagreen | #8FBC8F | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkseagreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkseagreen.json) |
+| 36 | DarkSlateBlue | darkslateblue | #483D8B | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkslateblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkslateblue.json) |
+| 37 | DarkSlateGray | darkslategray | #2F4F4F | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkslategray.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkslategray.json) |
+| 38 | DarkSlateGrey | darkslategrey | #2F4F4F | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkslategrey.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkslategrey.json) |
+| 39 | DarkTurquoise | darkturquoise | #00CED1 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkturquoise.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkturquoise.json) |
+| 40 | DarkViolet | darkviolet | #9400D3 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/darkviolet.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/darkviolet.json) |
+| 41 | DeepPink | deeppink | #FF1493 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/deeppink.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/deeppink.json) |
+| 42 | DeepSkyBlue | deepskyblue | #00BFFF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/deepskyblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/deepskyblue.json) |
+| 43 | DimGray | dimgray | #696969 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/dimgray.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/dimgray.json) |
+| 44 | DimGrey | dimgrey | #696969 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/dimgrey.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/dimgrey.json) |
+| 45 | DodgerBlue | dodgerblue | #1E90FF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/dodgerblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/dodgerblue.json) |
+| 46 | FireBrick | firebrick | #B22222 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/firebrick.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/firebrick.json) |
+| 47 | FloralWhite | floralwhite | #FFFAF0 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/floralwhite.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/floralwhite.json) |
+| 48 | ForestGreen | forestgreen | #228B22 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/forestgreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/forestgreen.json) |
+| 49 | Fuchsia | fuchsia | #FF00FF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/fuchsia.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/fuchsia.json) |
+| 50 | Gainsboro | gainsboro | #DCDCDC | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/gainsboro.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/gainsboro.json) |
+| 51 | GhostWhite | ghostwhite | #F8F8FF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/ghostwhite.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/ghostwhite.json) |
+| 52 | Gold | gold | #FFD700 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/gold.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/gold.json) |
+| 53 | GoldenRod | goldenrod | #DAA520 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/goldenrod.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/goldenrod.json) |
+| 54 | Gray | gray | #808080 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/gray.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/gray.json) |
+| 55 | Grey | grey | #808080 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/grey.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/grey.json) |
+| 56 | Green | green | #008000 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/green.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/green.json) |
+| 57 | GreenYellow | greenyellow | #ADFF2F | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/greenyellow.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/greenyellow.json) |
+| 58 | HoneyDew | honeydew | #F0FFF0 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/honeydew.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/honeydew.json) |
+| 59 | HotPink | hotpink | #FF69B4 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/hotpink.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/hotpink.json) |
+| 60 | IndianRed | indianred | #CD5C5C | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/indianred.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/indianred.json) |
+| 61 | Indigo | indigo | #4B0082 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/indigo.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/indigo.json) |
+| 62 | Ivory | ivory | #FFFFF0 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/ivory.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/ivory.json) |
+| 63 | Khaki | khaki | #F0E68C | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/khaki.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/khaki.json) |
+| 64 | Lavender | lavender | #E6E6FA | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lavender.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lavender.json) |
+| 65 | LavenderBlush | lavenderblush | #FFF0F5 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lavenderblush.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lavenderblush.json) |
+| 66 | LawnGreen | lawngreen | #7CFC00 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lawngreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lawngreen.json) |
+| 67 | LemonChiffon | lemonchiffon | #FFFACD | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lemonchiffon.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lemonchiffon.json) |
+| 68 | LightBlue | lightblue | #ADD8E6 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightblue.json) |
+| 69 | LightCoral | lightcoral | #F08080 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightcoral.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightcoral.json) |
+| 70 | LightCyan | lightcyan | #E0FFFF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightcyan.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightcyan.json) |
+| 71 | LightGoldenRodYellow | lightgoldenrodyellow | #FAFAD2 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightgoldenrodyellow.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightgoldenrodyellow.json) |
+| 72 | LightGray | lightgray | #D3D3D3 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightgray.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightgray.json) |
+| 73 | LightGrey | lightgrey | #D3D3D3 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightgrey.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightgrey.json) |
+| 74 | LightGreen | lightgreen | #90EE90 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightgreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightgreen.json) |
+| 75 | LightPink | lightpink | #FFB6C1 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightpink.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightpink.json) |
+| 76 | LightSalmon | lightsalmon | #FFA07A | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightsalmon.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightsalmon.json) |
+| 77 | LightSeaGreen | lightseagreen | #20B2AA | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightseagreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightseagreen.json) |
+| 78 | LightSkyBlue | lightskyblue | #87CEFA | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightskyblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightskyblue.json) |
+| 79 | LightSlateGray | lightslategray | #778899 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightslategray.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightslategray.json) |
+| 80 | LightSlateGrey | lightslategrey | #778899 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightslategrey.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightslategrey.json) |
+| 81 | LightSteelBlue | lightsteelblue | #B0C4DE | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightsteelblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightsteelblue.json) |
+| 82 | LightYellow | lightyellow | #FFFFE0 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lightyellow.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lightyellow.json) |
+| 83 | Lime | lime | #00FF00 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/lime.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/lime.json) |
+| 84 | LimeGreen | limegreen | #32CD32 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/limegreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/limegreen.json) |
+| 85 | Linen | linen | #FAF0E6 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/linen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/linen.json) |
+| 86 | Magenta | magenta | #FF00FF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/magenta.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/magenta.json) |
+| 87 | Maroon | maroon | #800000 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/maroon.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/maroon.json) |
+| 88 | MediumAquaMarine | mediumaquamarine | #66CDAA | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumaquamarine.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumaquamarine.json) |
+| 89 | MediumBlue | mediumblue | #0000CD | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumblue.json) |
+| 90 | MediumOrchid | mediumorchid | #BA55D3 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumorchid.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumorchid.json) |
+| 91 | MediumPurple | mediumpurple | #9370DB | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumpurple.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumpurple.json) |
+| 92 | MediumSeaGreen | mediumseagreen | #3CB371 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumseagreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumseagreen.json) |
+| 93 | MediumSlateBlue | mediumslateblue | #7B68EE | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumslateblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumslateblue.json) |
+| 94 | MediumSpringGreen | mediumspringgreen | #00FA9A | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumspringgreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumspringgreen.json) |
+| 95 | MediumTurquoise | mediumturquoise | #48D1CC | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumturquoise.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumturquoise.json) |
+| 96 | MediumVioletRed | mediumvioletred | #C71585 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mediumvioletred.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mediumvioletred.json) |
+| 97 | MidnightBlue | midnightblue | #191970 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/midnightblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/midnightblue.json) |
+| 98 | MintCream | mintcream | #F5FFFA | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mintcream.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mintcream.json) |
+| 99 | MistyRose | mistyrose | #FFE4E1 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/mistyrose.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/mistyrose.json) |
+| 100 | Moccasin | moccasin | #FFE4B5 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/moccasin.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/moccasin.json) |
+| 101 | NavajoWhite | navajowhite | #FFDEAD | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/navajowhite.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/navajowhite.json) |
+| 102 | Navy | navy | #000080 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/navy.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/navy.json) |
+| 103 | OldLace | oldlace | #FDF5E6 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/oldlace.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/oldlace.json) |
+| 104 | Olive | olive | #808000 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/olive.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/olive.json) |
+| 105 | OliveDrab | olivedrab | #6B8E23 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/olivedrab.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/olivedrab.json) |
+| 106 | Orange | orange | #FFA500 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/orange.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/orange.json) |
+| 107 | OrangeRed | orangered | #FF4500 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/orangered.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/orangered.json) |
+| 108 | Orchid | orchid | #DA70D6 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/orchid.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/orchid.json) |
+| 109 | PaleGoldenRod | palegoldenrod | #EEE8AA | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/palegoldenrod.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/palegoldenrod.json) |
+| 110 | PaleGreen | palegreen | #98FB98 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/palegreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/palegreen.json) |
+| 111 | PaleTurquoise | paleturquoise | #AFEEEE | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/paleturquoise.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/paleturquoise.json) |
+| 112 | PaleVioletRed | palevioletred | #DB7093 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/palevioletred.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/palevioletred.json) |
+| 113 | PapayaWhip | papayawhip | #FFEFD5 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/papayawhip.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/papayawhip.json) |
+| 114 | PeachPuff | peachpuff | #FFDAB9 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/peachpuff.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/peachpuff.json) |
+| 115 | Peru | peru | #CD853F | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/peru.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/peru.json) |
+| 116 | Pink | pink | #FFC0CB | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/pink.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/pink.json) |
+| 117 | Plum | plum | #DDA0DD | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/plum.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/plum.json) |
+| 118 | PowderBlue | powderblue | #B0E0E6 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/powderblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/powderblue.json) |
+| 119 | Purple | purple | #800080 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/purple.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/purple.json) |
+| 120 | RebeccaPurple | rebeccapurple | #663399 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/rebeccapurple.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/rebeccapurple.json) |
+| 121 | Red | red | #FF0000 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/red.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/red.json) |
+| 122 | RosyBrown | rosybrown | #BC8F8F | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/rosybrown.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/rosybrown.json) |
+| 123 | RoyalBlue | royalblue | #4169E1 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/royalblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/royalblue.json) |
+| 124 | SaddleBrown | saddlebrown | #8B4513 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/saddlebrown.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/saddlebrown.json) |
+| 125 | Salmon | salmon | #FA8072 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/salmon.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/salmon.json) |
+| 126 | SandyBrown | sandybrown | #F4A460 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/sandybrown.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/sandybrown.json) |
+| 127 | SeaGreen | seagreen | #2E8B57 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/seagreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/seagreen.json) |
+| 128 | SeaShell | seashell | #FFF5EE | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/seashell.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/seashell.json) |
+| 129 | Sienna | sienna | #A0522D | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/sienna.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/sienna.json) |
+| 130 | Silver | silver | #C0C0C0 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/silver.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/silver.json) |
+| 131 | SkyBlue | skyblue | #87CEEB | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/skyblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/skyblue.json) |
+| 132 | SlateBlue | slateblue | #6A5ACD | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/slateblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/slateblue.json) |
+| 133 | SlateGray | slategray | #708090 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/slategray.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/slategray.json) |
+| 134 | SlateGrey | slategrey | #708090 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/slategrey.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/slategrey.json) |
+| 135 | Snow | snow | #FFFAFA | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/snow.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/snow.json) |
+| 136 | SpringGreen | springgreen | #00FF7F | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/springgreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/springgreen.json) |
+| 137 | SteelBlue | steelblue | #4682B4 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/steelblue.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/steelblue.json) |
+| 138 | Tan | tan | #D2B48C | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/tan.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/tan.json) |
+| 139 | Teal | teal | #008080 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/teal.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/teal.json) |
+| 140 | Thistle | thistle | #D8BFD8 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/thistle.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/thistle.json) |
+| 141 | Tomato | tomato | #FF6347 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/tomato.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/tomato.json) |
+| 142 | Turquoise | turquoise | #40E0D0 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/turquoise.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/turquoise.json) |
+| 143 | Violet | violet | #EE82EE | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/violet.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/violet.json) |
+| 144 | Wheat | wheat | #F5DEB3 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/wheat.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/wheat.json) |
+| 145 | White | white | #FFFFFF | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/white.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/white.json) |
+| 146 | WhiteSmoke | whitesmoke | #F5F5F5 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/whitesmoke.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/whitesmoke.json) |
+| 147 | Yellow | yellow | #FFFF00 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/yellow.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/yellow.json) |
+| 148 | YellowGreen | yellowgreen | #9ACD32 | [CSS](https://github.com/iaseth/html-color-names/blob/master/css/yellowgreen.css) | [JSON](https://github.com/iaseth/html-color-names/blob/master/json/yellowgreen.json) |
 

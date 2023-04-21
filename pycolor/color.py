@@ -14,9 +14,11 @@ class PyColor:
 
 		self.cssname = f"{self.lowername}.css"
 		self.csspath = f"css/{self.cssname}"
+		self.css_github = f"https://github.com/iaseth/html-color-names/blob/master/css/{self.lowername}.css"
 
 		self.jsonname = f"{self.lowername}.json"
 		self.jsonpath = f"json/{self.jsonname}"
+		self.json_github = f"https://github.com/iaseth/html-color-names/blob/master/json/{self.lowername}.json"
 
 
 
