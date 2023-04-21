@@ -28,9 +28,10 @@ class PyColor:
 		for x in range(count):
 			components = []
 			for c in range(3):
-				gap = (other.rgb[c] - self.rgb[c])
-				gap = math.floor(gap/(count+1))
-				component = self.rgb[c] + (gap * (x+1))
+				gap = other.rgb[c] - self.rgb[c]
+				step = gap/(count+1)
+				offset = step * (x+1)
+				component = int(self.rgb[c] + offset)
 				components.append(component)
 
 			shade = PyColor(components)
