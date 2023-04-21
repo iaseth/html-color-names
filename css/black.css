@@ -2,25 +2,25 @@
 
 
 
-.bg-black-50 { background-color: #d2d2d2; }
-.text-black-50 { color: #d2d2d2; }
-.border-black-50 { border-color: #d2d2d2; }
-.outline-black-50 { outline-color: #d2d2d2; }
+.bg-black-50 { background-color: #d4d4d4; }
+.text-black-50 { color: #d4d4d4; }
+.border-black-50 { border-color: #d4d4d4; }
+.outline-black-50 { outline-color: #d4d4d4; }
 
-.bg-black-100 { background-color: #a8a8a8; }
-.text-black-100 { color: #a8a8a8; }
-.border-black-100 { border-color: #a8a8a8; }
-.outline-black-100 { outline-color: #a8a8a8; }
+.bg-black-100 { background-color: #aaaaaa; }
+.text-black-100 { color: #aaaaaa; }
+.border-black-100 { border-color: #aaaaaa; }
+.outline-black-100 { outline-color: #aaaaaa; }
 
-.bg-black-200 { background-color: #7e7e7e; }
-.text-black-200 { color: #7e7e7e; }
-.border-black-200 { border-color: #7e7e7e; }
-.outline-black-200 { outline-color: #7e7e7e; }
+.bg-black-200 { background-color: #7f7f7f; }
+.text-black-200 { color: #7f7f7f; }
+.border-black-200 { border-color: #7f7f7f; }
+.outline-black-200 { outline-color: #7f7f7f; }
 
-.bg-black-300 { background-color: #545454; }
-.text-black-300 { color: #545454; }
-.border-black-300 { border-color: #545454; }
-.outline-black-300 { outline-color: #545454; }
+.bg-black-300 { background-color: #555555; }
+.text-black-300 { color: #555555; }
+.border-black-300 { border-color: #555555; }
+.outline-black-300 { outline-color: #555555; }
 
 .bg-black-400 { background-color: #2a2a2a; }
 .text-black-400 { color: #2a2a2a; }
