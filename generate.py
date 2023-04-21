@@ -35,6 +35,12 @@ def main():
 		print(f"saved: {csspath}")
 		# break
 
+	for color in colors:
+		with open(color.jsonpath, "w") as f:
+			json.dump(color.get_palette_json(), f, indent="\t")
+		print(f"saved: {color.jsonpath}")
+		# break
+
 
 if __name__ == '__main__':
 	main()

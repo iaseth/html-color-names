@@ -7,11 +7,17 @@ from .utils import get_rgb_from_hex, get_hex_from_rgb
 class PyColor:
 	def __init__(self, rgb, name="Anoncolor"):
 		self.rgb = rgb
+		self.hex = get_hex_from_rgb(self.rgb)
+
 		self.name = name
 		self.lowername = self.name.lower()
+
 		self.cssname = f"{self.lowername}.css"
 		self.csspath = f"css/{self.cssname}"
-		self.hex = get_hex_from_rgb(self.rgb)
+
+		self.jsonname = f"{self.lowername}.json"
+		self.jsonpath = f"json/{self.jsonname}"
+
 
 
 	def get_middle_colors(self, other, count=5):
@@ -56,6 +62,14 @@ class PyColor:
 			entry["rgb"] = color.rgb
 			palette.append(entry)
 		return palette
+
+	def get_palette_json(self):
+		jo = {}
+		jo[self.lowername] = {}
+		palette = self.get_palette()
+		for color in palette:
+			jo[self.lowername][color["value"]] = color["hex"]
+		return jo
 
 
 	def __str__(self):
