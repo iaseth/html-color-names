@@ -8,4 +8,8 @@ def get_rgb_from_hex(hex):
 	rgb[2] = int(hex[5:7], 16)
 	return rgb
 
+def get_hex_from_rgb(rgb):
+	hex = '#%02x%02x%02x' % tuple(rgb)
+	return hex
+
 

@@ -4,13 +4,13 @@ import os
 import jinja2
 jinja_env = jinja2.Environment(loader = jinja2.FileSystemLoader(os.path.abspath('./templates/')))
 
-from pycolor import PyColor
+from pycolor import get_color_from_json
 
 
 
 def main():
 	colorsJson = json.load(open("colors.json"))
-	colors = [PyColor(c) for c in colorsJson["colors"]]
+	colors = [get_color_from_json(jo) for jo in colorsJson["colors"]]
 	[print(c) for c in colors]
 
 	readme_md_template = jinja_env.get_template("readme_md.txt")
