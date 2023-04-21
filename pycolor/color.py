@@ -1,3 +1,4 @@
+import json
 import math
 
 from .utils import get_rgb_from_hex, get_hex_from_rgb
@@ -75,6 +76,11 @@ class PyColor:
 		for color in palette:
 			jo[self.lowername][color["value"]] = color["hex"]
 		return jo
+
+	def get_palette_json_text(self):
+		jo = self.get_palette_json()
+		text = json.dumps(jo, indent="\t")
+		return text
 
 
 	def __str__(self):

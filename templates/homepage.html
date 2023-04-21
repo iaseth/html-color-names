@@ -37,6 +37,11 @@
 		padding: 0px 5px;
 	}
 
+	pre {
+		background-color: rgba(0, 0, 0, 0.1);
+		padding: 5px 10px;
+	}
+
 	main.palette {
 		display: grid;
 		grid-template-columns: repeat(11, minmax(0, 1fr));
@@ -61,6 +66,7 @@
 			{% endfor %}
 		</main>
 
+		<pre>{{ color.get_palette_json_text() }}</pre>
 		<footer>
 			<h4>
 				<a href="{{ color.css_github }}">View CSS</a>
