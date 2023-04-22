@@ -2,6 +2,8 @@ import json
 import os
 import sys
 
+from PIL import Image
+import numpy
 import jinja2
 jinja_env = jinja2.Environment(loader = jinja2.FileSystemLoader(os.path.abspath('./templates/')))
 
@@ -68,6 +70,26 @@ def generate_master_json(colors):
 	print(f"saved: {master_json_path}")
 
 
+def generate_pngs(colors):
+	SIZE = 50
+	startY = 0
+	endY = SIZE
+
+	for color in colors:
+		palette = color.get_palette()
+		data = numpy.zeros((SIZE, SIZE*len(palette), 3), dtype=numpy.uint8)
+		for idx, shade in enumerate(palette):
+			startX = idx * SIZE
+			endX = startX + SIZE
+			for x in range(startX, endX):
+				for y in range(startY, endY):
+					data[y][x] = shade["rgb"]
+
+		im = Image.fromarray(data)
+		im.save(color.pngpath)
+		print(f"saved: {color.pngpath}")
+
+
 def main():
 	colorsJson = json.load(open("colors.json"))
 	colors = [get_color_from_json(jo) for jo in colorsJson["colors"]]
@@ -85,6 +107,8 @@ def main():
 		generate_html(colors)
 	elif command == "masterjson":
 		generate_master_json(colors)
+	elif command == "png":
+		generate_pngs(colors)
 	else:
 		generate_readme(colors)
 

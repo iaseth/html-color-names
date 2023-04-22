@@ -13,6 +13,9 @@ json:
 html:
 	python generate.py html
 
+png:
+	python generate.py png
+
 masterjson:
 	python generate.py masterjson
 
@@ -20,4 +23,4 @@ clean:
 	@rm -rf css
 	@rm -rf json
 
-.PHONY: readme css json
+.PHONY: readme css json png
