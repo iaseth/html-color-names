@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-rebeccapurple-50 { background-color: #e5ddee; }
 .text-rebeccapurple-50 { color: #e5ddee; }
 .border-rebeccapurple-50 { border-color: #e5ddee; }
@@ -53,3 +55,4 @@
 .text-rebeccapurple-950 { color: #110819; }
 .border-rebeccapurple-950 { border-color: #110819; }
 .outline-rebeccapurple-950 { outline-color: #110819; }
+

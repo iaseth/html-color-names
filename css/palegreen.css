@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-palegreen-50 { background-color: #edfeed; }
 .text-palegreen-50 { color: #edfeed; }
 .border-palegreen-50 { border-color: #edfeed; }
@@ -53,3 +55,4 @@
 .text-palegreen-950 { color: #192919; }
 .border-palegreen-950 { border-color: #192919; }
 .outline-palegreen-950 { outline-color: #192919; }
+

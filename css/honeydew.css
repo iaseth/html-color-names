@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-honeydew-50 { background-color: #fcfffc; }
 .text-honeydew-50 { color: #fcfffc; }
 .border-honeydew-50 { border-color: #fcfffc; }
@@ -53,3 +55,4 @@
 .text-honeydew-950 { color: #282a28; }
 .border-honeydew-950 { border-color: #282a28; }
 .outline-honeydew-950 { outline-color: #282a28; }
+

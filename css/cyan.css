@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-cyan-50 { background-color: #d4ffff; }
 .text-cyan-50 { color: #d4ffff; }
 .border-cyan-50 { border-color: #d4ffff; }
@@ -53,3 +55,4 @@
 .text-cyan-950 { color: #002a2a; }
 .border-cyan-950 { border-color: #002a2a; }
 .outline-cyan-950 { outline-color: #002a2a; }
+

@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-darkgreen-50 { background-color: #d4e5d4; }
 .text-darkgreen-50 { color: #d4e5d4; }
 .border-darkgreen-50 { border-color: #d4e5d4; }
@@ -53,3 +55,4 @@
 .text-darkgreen-950 { color: #001000; }
 .border-darkgreen-950 { border-color: #001000; }
 .outline-darkgreen-950 { outline-color: #001000; }
+

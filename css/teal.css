@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-teal-50 { background-color: #d4e9e9; }
 .text-teal-50 { color: #d4e9e9; }
 .border-teal-50 { border-color: #d4e9e9; }
@@ -53,3 +55,4 @@
 .text-teal-950 { color: #001515; }
 .border-teal-950 { border-color: #001515; }
 .outline-teal-950 { outline-color: #001515; }
+

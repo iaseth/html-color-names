@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-aliceblue-50 { background-color: #fcfdff; }
 .text-aliceblue-50 { color: #fcfdff; }
 .border-aliceblue-50 { border-color: #fcfdff; }
@@ -53,3 +55,4 @@
 .text-aliceblue-950 { color: #28292a; }
 .border-aliceblue-950 { border-color: #28292a; }
 .outline-aliceblue-950 { outline-color: #28292a; }
+

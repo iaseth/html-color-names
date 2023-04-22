@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-palegoldenrod-50 { background-color: #fcfbf0; }
 .text-palegoldenrod-50 { color: #fcfbf0; }
 .border-palegoldenrod-50 { border-color: #fcfbf0; }
@@ -53,3 +55,4 @@
 .text-palegoldenrod-950 { color: #27261c; }
 .border-palegoldenrod-950 { border-color: #27261c; }
 .outline-palegoldenrod-950 { outline-color: #27261c; }
+

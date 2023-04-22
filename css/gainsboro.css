@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-gainsboro-50 { background-color: #f9f9f9; }
 .text-gainsboro-50 { color: #f9f9f9; }
 .border-gainsboro-50 { border-color: #f9f9f9; }
@@ -53,3 +55,4 @@
 .text-gainsboro-950 { color: #242424; }
 .border-gainsboro-950 { border-color: #242424; }
 .outline-gainsboro-950 { outline-color: #242424; }
+

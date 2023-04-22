@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-indigo-50 { background-color: #e1d4ea; }
 .text-indigo-50 { color: #e1d4ea; }
 .border-indigo-50 { border-color: #e1d4ea; }
@@ -53,3 +55,4 @@
 .text-indigo-950 { color: #0c0015; }
 .border-indigo-950 { border-color: #0c0015; }
 .outline-indigo-950 { outline-color: #0c0015; }
+

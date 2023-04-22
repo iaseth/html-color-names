@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-skyblue-50 { background-color: #ebf6fb; }
 .text-skyblue-50 { color: #ebf6fb; }
 .border-skyblue-50 { border-color: #ebf6fb; }
@@ -53,3 +55,4 @@
 .text-skyblue-950 { color: #162227; }
 .border-skyblue-950 { border-color: #162227; }
 .outline-skyblue-950 { outline-color: #162227; }
+

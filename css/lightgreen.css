@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-lightgreen-50 { background-color: #ecfcec; }
 .text-lightgreen-50 { color: #ecfcec; }
 .border-lightgreen-50 { border-color: #ecfcec; }
@@ -53,3 +55,4 @@
 .text-lightgreen-950 { color: #182718; }
 .border-lightgreen-950 { border-color: #182718; }
 .outline-lightgreen-950 { outline-color: #182718; }
+

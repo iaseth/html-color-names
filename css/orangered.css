@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-orangered-50 { background-color: #ffe0d4; }
 .text-orangered-50 { color: #ffe0d4; }
 .border-orangered-50 { border-color: #ffe0d4; }
@@ -53,3 +55,4 @@
 .text-orangered-950 { color: #2a0b00; }
 .border-orangered-950 { border-color: #2a0b00; }
 .outline-orangered-950 { outline-color: #2a0b00; }
+

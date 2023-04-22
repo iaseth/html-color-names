@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-mediumblue-50 { background-color: #d4d4f6; }
 .text-mediumblue-50 { color: #d4d4f6; }
 .border-mediumblue-50 { border-color: #d4d4f6; }
@@ -53,3 +55,4 @@
 .text-mediumblue-950 { color: #000022; }
 .border-mediumblue-950 { border-color: #000022; }
 .outline-mediumblue-950 { outline-color: #000022; }
+

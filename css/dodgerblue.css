@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-dodgerblue-50 { background-color: #d9ecff; }
 .text-dodgerblue-50 { color: #d9ecff; }
 .border-dodgerblue-50 { border-color: #d9ecff; }
@@ -53,3 +55,4 @@
 .text-dodgerblue-950 { color: #05182a; }
 .border-dodgerblue-950 { border-color: #05182a; }
 .outline-dodgerblue-950 { outline-color: #05182a; }
+

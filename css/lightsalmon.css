@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-lightsalmon-50 { background-color: #ffefe8; }
 .text-lightsalmon-50 { color: #ffefe8; }
 .border-lightsalmon-50 { border-color: #ffefe8; }
@@ -53,3 +55,4 @@
 .text-lightsalmon-950 { color: #2a1a14; }
 .border-lightsalmon-950 { border-color: #2a1a14; }
 .outline-lightsalmon-950 { outline-color: #2a1a14; }
+

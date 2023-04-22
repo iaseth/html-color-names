@@ -1,6 +1,9 @@
+
+/* github: https://github.com/iaseth/html-color-names */
 {% for color in palette %}
 .bg-{{ name }}-{{ color["value"] }} { background-color: {{ color["hex"] }}; }
 .text-{{ name }}-{{ color["value"] }} { color: {{ color["hex"] }}; }
 .border-{{ name }}-{{ color["value"] }} { border-color: {{ color["hex"] }}; }
 .outline-{{ name }}-{{ color["value"] }} { outline-color: {{ color["hex"] }}; }
 {% endfor %}
+

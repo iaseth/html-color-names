@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-magenta-50 { background-color: #ffd4ff; }
 .text-magenta-50 { color: #ffd4ff; }
 .border-magenta-50 { border-color: #ffd4ff; }
@@ -53,3 +55,4 @@
 .text-magenta-950 { color: #2a002a; }
 .border-magenta-950 { border-color: #2a002a; }
 .outline-magenta-950 { outline-color: #2a002a; }
+

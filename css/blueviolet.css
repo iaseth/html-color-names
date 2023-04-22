@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-blueviolet-50 { background-color: #ebdbfa; }
 .text-blueviolet-50 { color: #ebdbfa; }
 .border-blueviolet-50 { border-color: #ebdbfa; }
@@ -53,3 +55,4 @@
 .text-blueviolet-950 { color: #170725; }
 .border-blueviolet-950 { border-color: #170725; }
 .outline-blueviolet-950 { outline-color: #170725; }
+

@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-seashell-50 { background-color: #fffdfc; }
 .text-seashell-50 { color: #fffdfc; }
 .border-seashell-50 { border-color: #fffdfc; }
@@ -53,3 +55,4 @@
 .text-seashell-950 { color: #2a2827; }
 .border-seashell-950 { border-color: #2a2827; }
 .outline-seashell-950 { outline-color: #2a2827; }
+

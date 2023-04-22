@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-slateblue-50 { background-color: #e6e3f6; }
 .text-slateblue-50 { color: #e6e3f6; }
 .border-slateblue-50 { border-color: #e6e3f6; }
@@ -53,3 +55,4 @@
 .text-slateblue-950 { color: #110f22; }
 .border-slateblue-950 { border-color: #110f22; }
 .outline-slateblue-950 { outline-color: #110f22; }
+

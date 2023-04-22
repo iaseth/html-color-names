@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-deeppink-50 { background-color: #ffd7ed; }
 .text-deeppink-50 { color: #ffd7ed; }
 .border-deeppink-50 { border-color: #ffd7ed; }
@@ -53,3 +55,4 @@
 .text-deeppink-950 { color: #2a0318; }
 .border-deeppink-950 { border-color: #2a0318; }
 .outline-deeppink-950 { outline-color: #2a0318; }
+

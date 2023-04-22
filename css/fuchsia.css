@@ -1,4 +1,6 @@
 
+/* github: https://github.com/iaseth/html-color-names */
+
 .bg-fuchsia-50 { background-color: #ffd4ff; }
 .text-fuchsia-50 { color: #ffd4ff; }
 .border-fuchsia-50 { border-color: #ffd4ff; }
@@ -53,3 +55,4 @@
 .text-fuchsia-950 { color: #2a002a; }
 .border-fuchsia-950 { border-color: #2a002a; }
 .outline-fuchsia-950 { outline-color: #2a002a; }
+
