@@ -17,7 +17,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/aliceblue.json",
 			"pngPath": "png/aliceblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/aliceblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/aliceblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/aliceblue.png?raw=true",
 			"palette": {
 				"50": "#fcfdff",
 				"100": "#fafcff",
@@ -49,7 +49,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/antiquewhite.json",
 			"pngPath": "png/antiquewhite.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/antiquewhite.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/antiquewhite.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/antiquewhite.png?raw=true",
 			"palette": {
 				"50": "#fefbf8",
 				"100": "#fdf8f1",
@@ -81,7 +81,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/aqua.json",
 			"pngPath": "png/aqua.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/aqua.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/aqua.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/aqua.png?raw=true",
 			"palette": {
 				"50": "#d4ffff",
 				"100": "#aaffff",
@@ -113,7 +113,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/aquamarine.json",
 			"pngPath": "png/aquamarine.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/aquamarine.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/aquamarine.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/aquamarine.png?raw=true",
 			"palette": {
 				"50": "#e9fff7",
 				"100": "#d4fff0",
@@ -145,7 +145,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/azure.json",
 			"pngPath": "png/azure.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/azure.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/azure.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/azure.png?raw=true",
 			"palette": {
 				"50": "#fcffff",
 				"100": "#faffff",
@@ -177,7 +177,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/beige.json",
 			"pngPath": "png/beige.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/beige.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/beige.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/beige.png?raw=true",
 			"palette": {
 				"50": "#fdfdf9",
 				"100": "#fbfbf3",
@@ -209,7 +209,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/bisque.json",
 			"pngPath": "png/bisque.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/bisque.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/bisque.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/bisque.png?raw=true",
 			"palette": {
 				"50": "#fffaf5",
 				"100": "#fff6eb",
@@ -241,7 +241,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/black.json",
 			"pngPath": "png/black.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/black.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/black.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/black.png?raw=true",
 			"palette": {
 				"50": "#d4d4d4",
 				"100": "#aaaaaa",
@@ -273,7 +273,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/blanchedalmond.json",
 			"pngPath": "png/blanchedalmond.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/blanchedalmond.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/blanchedalmond.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/blanchedalmond.png?raw=true",
 			"palette": {
 				"50": "#fffbf6",
 				"100": "#fff8ee",
@@ -305,7 +305,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/blue.json",
 			"pngPath": "png/blue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/blue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/blue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/blue.png?raw=true",
 			"palette": {
 				"50": "#d4d4ff",
 				"100": "#aaaaff",
@@ -337,7 +337,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/blueviolet.json",
 			"pngPath": "png/blueviolet.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/blueviolet.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/blueviolet.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/blueviolet.png?raw=true",
 			"palette": {
 				"50": "#ebdbfa",
 				"100": "#d8b8f5",
@@ -369,7 +369,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/brown.json",
 			"pngPath": "png/brown.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/brown.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/brown.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/brown.png?raw=true",
 			"palette": {
 				"50": "#f0dbdb",
 				"100": "#e1b8b8",
@@ -401,7 +401,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/burlywood.json",
 			"pngPath": "png/burlywood.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/burlywood.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/burlywood.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/burlywood.png?raw=true",
 			"palette": {
 				"50": "#f9f3eb",
 				"100": "#f4e7d7",
@@ -433,7 +433,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/cadetblue.json",
 			"pngPath": "png/cadetblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/cadetblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/cadetblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/cadetblue.png?raw=true",
 			"palette": {
 				"50": "#e4eeef",
 				"100": "#c9dedf",
@@ -465,7 +465,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/chartreuse.json",
 			"pngPath": "png/chartreuse.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/chartreuse.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/chartreuse.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/chartreuse.png?raw=true",
 			"palette": {
 				"50": "#e9ffd4",
 				"100": "#d4ffaa",
@@ -497,7 +497,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/chocolate.json",
 			"pngPath": "png/chocolate.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/chocolate.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/chocolate.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/chocolate.png?raw=true",
 			"palette": {
 				"50": "#f7e6d9",
 				"100": "#f0cdb4",
@@ -529,7 +529,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/coral.json",
 			"pngPath": "png/coral.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/coral.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/coral.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/coral.png?raw=true",
 			"palette": {
 				"50": "#ffe9e1",
 				"100": "#ffd4c4",
@@ -561,7 +561,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/cornflowerblue.json",
 			"pngPath": "png/cornflowerblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/cornflowerblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/cornflowerblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/cornflowerblue.png?raw=true",
 			"palette": {
 				"50": "#e5edfc",
 				"100": "#cbdbf9",
@@ -593,7 +593,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/cornsilk.json",
 			"pngPath": "png/cornsilk.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/cornsilk.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/cornsilk.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/cornsilk.png?raw=true",
 			"palette": {
 				"50": "#fffdf9",
 				"100": "#fffcf3",
@@ -625,7 +625,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/crimson.json",
 			"pngPath": "png/crimson.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/crimson.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/crimson.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/crimson.png?raw=true",
 			"palette": {
 				"50": "#f9d7de",
 				"100": "#f3b0be",
@@ -657,7 +657,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/cyan.json",
 			"pngPath": "png/cyan.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/cyan.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/cyan.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/cyan.png?raw=true",
 			"palette": {
 				"50": "#d4ffff",
 				"100": "#aaffff",
@@ -689,7 +689,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkblue.json",
 			"pngPath": "png/darkblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkblue.png?raw=true",
 			"palette": {
 				"50": "#d4d4eb",
 				"100": "#aaaad8",
@@ -721,7 +721,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkcyan.json",
 			"pngPath": "png/darkcyan.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkcyan.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkcyan.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkcyan.png?raw=true",
 			"palette": {
 				"50": "#d4ebeb",
 				"100": "#aad8d8",
@@ -753,7 +753,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkgoldenrod.json",
 			"pngPath": "png/darkgoldenrod.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkgoldenrod.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkgoldenrod.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkgoldenrod.png?raw=true",
 			"palette": {
 				"50": "#f3ead6",
 				"100": "#e7d6ad",
@@ -785,7 +785,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkgray.json",
 			"pngPath": "png/darkgray.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkgray.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkgray.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkgray.png?raw=true",
 			"palette": {
 				"50": "#f0f0f0",
 				"100": "#e2e2e2",
@@ -817,7 +817,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkgrey.json",
 			"pngPath": "png/darkgrey.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkgrey.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkgrey.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkgrey.png?raw=true",
 			"palette": {
 				"50": "#f0f0f0",
 				"100": "#e2e2e2",
@@ -849,7 +849,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkgreen.json",
 			"pngPath": "png/darkgreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkgreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkgreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkgreen.png?raw=true",
 			"palette": {
 				"50": "#d4e5d4",
 				"100": "#aacbaa",
@@ -881,7 +881,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkkhaki.json",
 			"pngPath": "png/darkkhaki.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkkhaki.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkkhaki.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkkhaki.png?raw=true",
 			"palette": {
 				"50": "#f4f3e6",
 				"100": "#e9e7cd",
@@ -913,7 +913,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkmagenta.json",
 			"pngPath": "png/darkmagenta.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkmagenta.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkmagenta.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkmagenta.png?raw=true",
 			"palette": {
 				"50": "#ebd4eb",
 				"100": "#d8aad8",
@@ -945,7 +945,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkolivegreen.json",
 			"pngPath": "png/darkolivegreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkolivegreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkolivegreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkolivegreen.png?raw=true",
 			"palette": {
 				"50": "#e2e6dc",
 				"100": "#c6cdb9",
@@ -977,7 +977,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkorange.json",
 			"pngPath": "png/darkorange.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkorange.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkorange.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkorange.png?raw=true",
 			"palette": {
 				"50": "#ffebd4",
 				"100": "#ffd8aa",
@@ -1009,7 +1009,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkorchid.json",
 			"pngPath": "png/darkorchid.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkorchid.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkorchid.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkorchid.png?raw=true",
 			"palette": {
 				"50": "#eedcf6",
 				"100": "#ddbaee",
@@ -1041,7 +1041,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkred.json",
 			"pngPath": "png/darkred.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkred.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkred.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkred.png?raw=true",
 			"palette": {
 				"50": "#ebd4d4",
 				"100": "#d8aaaa",
@@ -1073,7 +1073,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darksalmon.json",
 			"pngPath": "png/darksalmon.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darksalmon.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darksalmon.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darksalmon.png?raw=true",
 			"palette": {
 				"50": "#fbede8",
 				"100": "#f7dcd2",
@@ -1105,7 +1105,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkseagreen.json",
 			"pngPath": "png/darkseagreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkseagreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkseagreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkseagreen.png?raw=true",
 			"palette": {
 				"50": "#ecf3ec",
 				"100": "#d9e8d9",
@@ -1137,7 +1137,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkslateblue.json",
 			"pngPath": "png/darkslateblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkslateblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkslateblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkslateblue.png?raw=true",
 			"palette": {
 				"50": "#e0deeb",
 				"100": "#c2bed8",
@@ -1169,7 +1169,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkslategray.json",
 			"pngPath": "png/darkslategray.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkslategray.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkslategray.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkslategray.png?raw=true",
 			"palette": {
 				"50": "#dce1e1",
 				"100": "#b9c4c4",
@@ -1201,7 +1201,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkslategrey.json",
 			"pngPath": "png/darkslategrey.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkslategrey.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkslategrey.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkslategrey.png?raw=true",
 			"palette": {
 				"50": "#dce1e1",
 				"100": "#b9c4c4",
@@ -1233,7 +1233,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkturquoise.json",
 			"pngPath": "png/darkturquoise.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkturquoise.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkturquoise.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkturquoise.png?raw=true",
 			"palette": {
 				"50": "#d4f6f7",
 				"100": "#aaeeef",
@@ -1265,7 +1265,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/darkviolet.json",
 			"pngPath": "png/darkviolet.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/darkviolet.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/darkviolet.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/darkviolet.png?raw=true",
 			"palette": {
 				"50": "#edd4f7",
 				"100": "#dbaaf0",
@@ -1297,7 +1297,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/deeppink.json",
 			"pngPath": "png/deeppink.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/deeppink.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/deeppink.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/deeppink.png?raw=true",
 			"palette": {
 				"50": "#ffd7ed",
 				"100": "#ffb0db",
@@ -1329,7 +1329,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/deepskyblue.json",
 			"pngPath": "png/deepskyblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/deepskyblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/deepskyblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/deepskyblue.png?raw=true",
 			"palette": {
 				"50": "#d4f4ff",
 				"100": "#aae9ff",
@@ -1361,7 +1361,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/dimgray.json",
 			"pngPath": "png/dimgray.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/dimgray.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/dimgray.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/dimgray.png?raw=true",
 			"palette": {
 				"50": "#e6e6e6",
 				"100": "#cdcdcd",
@@ -1393,7 +1393,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/dimgrey.json",
 			"pngPath": "png/dimgrey.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/dimgrey.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/dimgrey.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/dimgrey.png?raw=true",
 			"palette": {
 				"50": "#e6e6e6",
 				"100": "#cdcdcd",
@@ -1425,7 +1425,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/dodgerblue.json",
 			"pngPath": "png/dodgerblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/dodgerblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/dodgerblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/dodgerblue.png?raw=true",
 			"palette": {
 				"50": "#d9ecff",
 				"100": "#b4daff",
@@ -1457,7 +1457,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/firebrick.json",
 			"pngPath": "png/firebrick.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/firebrick.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/firebrick.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/firebrick.png?raw=true",
 			"palette": {
 				"50": "#f2dada",
 				"100": "#e5b5b5",
@@ -1489,7 +1489,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/floralwhite.json",
 			"pngPath": "png/floralwhite.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/floralwhite.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/floralwhite.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/floralwhite.png?raw=true",
 			"palette": {
 				"50": "#fffefc",
 				"100": "#fffdfa",
@@ -1521,7 +1521,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/forestgreen.json",
 			"pngPath": "png/forestgreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/forestgreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/forestgreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/forestgreen.png?raw=true",
 			"palette": {
 				"50": "#daebda",
 				"100": "#b5d8b5",
@@ -1553,7 +1553,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/fuchsia.json",
 			"pngPath": "png/fuchsia.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/fuchsia.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/fuchsia.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/fuchsia.png?raw=true",
 			"palette": {
 				"50": "#ffd4ff",
 				"100": "#ffaaff",
@@ -1585,7 +1585,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/gainsboro.json",
 			"pngPath": "png/gainsboro.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/gainsboro.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/gainsboro.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/gainsboro.png?raw=true",
 			"palette": {
 				"50": "#f9f9f9",
 				"100": "#f3f3f3",
@@ -1617,7 +1617,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/ghostwhite.json",
 			"pngPath": "png/ghostwhite.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/ghostwhite.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/ghostwhite.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/ghostwhite.png?raw=true",
 			"palette": {
 				"50": "#fdfdff",
 				"100": "#fcfcff",
@@ -1649,7 +1649,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/gold.json",
 			"pngPath": "png/gold.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/gold.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/gold.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/gold.png?raw=true",
 			"palette": {
 				"50": "#fff8d4",
 				"100": "#fff1aa",
@@ -1681,7 +1681,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/goldenrod.json",
 			"pngPath": "png/goldenrod.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/goldenrod.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/goldenrod.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/goldenrod.png?raw=true",
 			"palette": {
 				"50": "#f8f0d9",
 				"100": "#f2e1b4",
@@ -1713,7 +1713,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/gray.json",
 			"pngPath": "png/gray.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/gray.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/gray.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/gray.png?raw=true",
 			"palette": {
 				"50": "#e9e9e9",
 				"100": "#d4d4d4",
@@ -1745,7 +1745,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/grey.json",
 			"pngPath": "png/grey.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/grey.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/grey.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/grey.png?raw=true",
 			"palette": {
 				"50": "#e9e9e9",
 				"100": "#d4d4d4",
@@ -1777,7 +1777,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/green.json",
 			"pngPath": "png/green.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/green.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/green.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/green.png?raw=true",
 			"palette": {
 				"50": "#d4e9d4",
 				"100": "#aad4aa",
@@ -1809,7 +1809,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/greenyellow.json",
 			"pngPath": "png/greenyellow.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/greenyellow.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/greenyellow.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/greenyellow.png?raw=true",
 			"palette": {
 				"50": "#f1ffdc",
 				"100": "#e3ffb9",
@@ -1841,7 +1841,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/honeydew.json",
 			"pngPath": "png/honeydew.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/honeydew.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/honeydew.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/honeydew.png?raw=true",
 			"palette": {
 				"50": "#fcfffc",
 				"100": "#fafffa",
@@ -1873,7 +1873,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/hotpink.json",
 			"pngPath": "png/hotpink.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/hotpink.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/hotpink.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/hotpink.png?raw=true",
 			"palette": {
 				"50": "#ffe6f2",
 				"100": "#ffcde6",
@@ -1905,7 +1905,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/indianred.json",
 			"pngPath": "png/indianred.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/indianred.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/indianred.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/indianred.png?raw=true",
 			"palette": {
 				"50": "#f6e3e3",
 				"100": "#eec8c8",
@@ -1937,7 +1937,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/indigo.json",
 			"pngPath": "png/indigo.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/indigo.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/indigo.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/indigo.png?raw=true",
 			"palette": {
 				"50": "#e1d4ea",
 				"100": "#c3aad5",
@@ -1969,7 +1969,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/ivory.json",
 			"pngPath": "png/ivory.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/ivory.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/ivory.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/ivory.png?raw=true",
 			"palette": {
 				"50": "#fffffc",
 				"100": "#fffffa",
@@ -2001,7 +2001,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/khaki.json",
 			"pngPath": "png/khaki.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/khaki.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/khaki.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/khaki.png?raw=true",
 			"palette": {
 				"50": "#fcfaeb",
 				"100": "#faf6d8",
@@ -2033,7 +2033,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lavender.json",
 			"pngPath": "png/lavender.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lavender.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lavender.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lavender.png?raw=true",
 			"palette": {
 				"50": "#fafafe",
 				"100": "#f6f6fd",
@@ -2065,7 +2065,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lavenderblush.json",
 			"pngPath": "png/lavenderblush.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lavenderblush.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lavenderblush.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lavenderblush.png?raw=true",
 			"palette": {
 				"50": "#fffcfd",
 				"100": "#fffafb",
@@ -2097,7 +2097,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lawngreen.json",
 			"pngPath": "png/lawngreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lawngreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lawngreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lawngreen.png?raw=true",
 			"palette": {
 				"50": "#e9fed4",
 				"100": "#d3feaa",
@@ -2129,7 +2129,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lemonchiffon.json",
 			"pngPath": "png/lemonchiffon.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lemonchiffon.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lemonchiffon.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lemonchiffon.png?raw=true",
 			"palette": {
 				"50": "#fffef6",
 				"100": "#fffdee",
@@ -2161,7 +2161,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightblue.json",
 			"pngPath": "png/lightblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightblue.png?raw=true",
 			"palette": {
 				"50": "#f1f8fa",
 				"100": "#e3f2f6",
@@ -2193,7 +2193,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightcoral.json",
 			"pngPath": "png/lightcoral.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightcoral.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightcoral.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightcoral.png?raw=true",
 			"palette": {
 				"50": "#fce9e9",
 				"100": "#fad4d4",
@@ -2225,7 +2225,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightcyan.json",
 			"pngPath": "png/lightcyan.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightcyan.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightcyan.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightcyan.png?raw=true",
 			"palette": {
 				"50": "#f9ffff",
 				"100": "#f4ffff",
@@ -2257,7 +2257,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightgoldenrodyellow.json",
 			"pngPath": "png/lightgoldenrodyellow.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightgoldenrodyellow.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightgoldenrodyellow.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightgoldenrodyellow.png?raw=true",
 			"palette": {
 				"50": "#fefef7",
 				"100": "#fdfdf0",
@@ -2289,7 +2289,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightgray.json",
 			"pngPath": "png/lightgray.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightgray.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightgray.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightgray.png?raw=true",
 			"palette": {
 				"50": "#f7f7f7",
 				"100": "#f0f0f0",
@@ -2321,7 +2321,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightgrey.json",
 			"pngPath": "png/lightgrey.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightgrey.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightgrey.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightgrey.png?raw=true",
 			"palette": {
 				"50": "#f7f7f7",
 				"100": "#f0f0f0",
@@ -2353,7 +2353,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightgreen.json",
 			"pngPath": "png/lightgreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightgreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightgreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightgreen.png?raw=true",
 			"palette": {
 				"50": "#ecfcec",
 				"100": "#daf9da",
@@ -2385,7 +2385,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightpink.json",
 			"pngPath": "png/lightpink.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightpink.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightpink.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightpink.png?raw=true",
 			"palette": {
 				"50": "#fff2f4",
 				"100": "#ffe6ea",
@@ -2417,7 +2417,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightsalmon.json",
 			"pngPath": "png/lightsalmon.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightsalmon.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightsalmon.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightsalmon.png?raw=true",
 			"palette": {
 				"50": "#ffefe8",
 				"100": "#ffdfd2",
@@ -2449,7 +2449,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightseagreen.json",
 			"pngPath": "png/lightseagreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightseagreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightseagreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightseagreen.png?raw=true",
 			"palette": {
 				"50": "#d9f2f0",
 				"100": "#b4e5e2",
@@ -2481,7 +2481,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightskyblue.json",
 			"pngPath": "png/lightskyblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightskyblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightskyblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightskyblue.png?raw=true",
 			"palette": {
 				"50": "#ebf6fe",
 				"100": "#d7eefd",
@@ -2513,7 +2513,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightslategray.json",
 			"pngPath": "png/lightslategray.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightslategray.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightslategray.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightslategray.png?raw=true",
 			"palette": {
 				"50": "#e8ebee",
 				"100": "#d1d7dd",
@@ -2545,7 +2545,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightslategrey.json",
 			"pngPath": "png/lightslategrey.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightslategrey.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightslategrey.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightslategrey.png?raw=true",
 			"palette": {
 				"50": "#e8ebee",
 				"100": "#d1d7dd",
@@ -2577,7 +2577,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightsteelblue.json",
 			"pngPath": "png/lightsteelblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightsteelblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightsteelblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightsteelblue.png?raw=true",
 			"palette": {
 				"50": "#f1f5f9",
 				"100": "#e4ebf4",
@@ -2609,7 +2609,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lightyellow.json",
 			"pngPath": "png/lightyellow.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lightyellow.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lightyellow.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lightyellow.png?raw=true",
 			"palette": {
 				"50": "#fffff9",
 				"100": "#fffff4",
@@ -2641,7 +2641,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/lime.json",
 			"pngPath": "png/lime.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/lime.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/lime.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/lime.png?raw=true",
 			"palette": {
 				"50": "#d4ffd4",
 				"100": "#aaffaa",
@@ -2673,7 +2673,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/limegreen.json",
 			"pngPath": "png/limegreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/limegreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/limegreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/limegreen.png?raw=true",
 			"palette": {
 				"50": "#dcf6dc",
 				"100": "#baeeba",
@@ -2705,7 +2705,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/linen.json",
 			"pngPath": "png/linen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/linen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/linen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/linen.png?raw=true",
 			"palette": {
 				"50": "#fefcfa",
 				"100": "#fdfaf6",
@@ -2737,7 +2737,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/magenta.json",
 			"pngPath": "png/magenta.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/magenta.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/magenta.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/magenta.png?raw=true",
 			"palette": {
 				"50": "#ffd4ff",
 				"100": "#ffaaff",
@@ -2769,7 +2769,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/maroon.json",
 			"pngPath": "png/maroon.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/maroon.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/maroon.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/maroon.png?raw=true",
 			"palette": {
 				"50": "#e9d4d4",
 				"100": "#d4aaaa",
@@ -2801,7 +2801,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumaquamarine.json",
 			"pngPath": "png/mediumaquamarine.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumaquamarine.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumaquamarine.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumaquamarine.png?raw=true",
 			"palette": {
 				"50": "#e5f6f0",
 				"100": "#cceee2",
@@ -2833,7 +2833,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumblue.json",
 			"pngPath": "png/mediumblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumblue.png?raw=true",
 			"palette": {
 				"50": "#d4d4f6",
 				"100": "#aaaaee",
@@ -2865,7 +2865,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumorchid.json",
 			"pngPath": "png/mediumorchid.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumorchid.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumorchid.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumorchid.png?raw=true",
 			"palette": {
 				"50": "#f3e2f7",
 				"100": "#e8c6f0",
@@ -2897,7 +2897,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumpurple.json",
 			"pngPath": "png/mediumpurple.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumpurple.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumpurple.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumpurple.png?raw=true",
 			"palette": {
 				"50": "#ede7f9",
 				"100": "#dbcff3",
@@ -2929,7 +2929,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumseagreen.json",
 			"pngPath": "png/mediumseagreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumseagreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumseagreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumseagreen.png?raw=true",
 			"palette": {
 				"50": "#def2e7",
 				"100": "#bee5cf",
@@ -2961,7 +2961,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumslateblue.json",
 			"pngPath": "png/mediumslateblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumslateblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumslateblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumslateblue.png?raw=true",
 			"palette": {
 				"50": "#e9e5fc",
 				"100": "#d3ccf9",
@@ -2993,7 +2993,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumspringgreen.json",
 			"pngPath": "png/mediumspringgreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumspringgreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumspringgreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumspringgreen.png?raw=true",
 			"palette": {
 				"50": "#d4feee",
 				"100": "#aafddd",
@@ -3025,7 +3025,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumturquoise.json",
 			"pngPath": "png/mediumturquoise.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumturquoise.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumturquoise.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumturquoise.png?raw=true",
 			"palette": {
 				"50": "#e0f7f6",
 				"100": "#c2efee",
@@ -3057,7 +3057,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mediumvioletred.json",
 			"pngPath": "png/mediumvioletred.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mediumvioletred.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mediumvioletred.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mediumvioletred.png?raw=true",
 			"palette": {
 				"50": "#f5d8ea",
 				"100": "#ecb1d6",
@@ -3089,7 +3089,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/midnightblue.json",
 			"pngPath": "png/midnightblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/midnightblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/midnightblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/midnightblue.png?raw=true",
 			"palette": {
 				"50": "#d8d8e7",
 				"100": "#b2b2cf",
@@ -3121,7 +3121,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mintcream.json",
 			"pngPath": "png/mintcream.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mintcream.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mintcream.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mintcream.png?raw=true",
 			"palette": {
 				"50": "#fdfffe",
 				"100": "#fbfffd",
@@ -3153,7 +3153,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/mistyrose.json",
 			"pngPath": "png/mistyrose.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/mistyrose.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/mistyrose.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/mistyrose.png?raw=true",
 			"palette": {
 				"50": "#fffafa",
 				"100": "#fff6f5",
@@ -3185,7 +3185,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/moccasin.json",
 			"pngPath": "png/moccasin.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/moccasin.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/moccasin.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/moccasin.png?raw=true",
 			"palette": {
 				"50": "#fffaf2",
 				"100": "#fff6e6",
@@ -3217,7 +3217,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/navajowhite.json",
 			"pngPath": "png/navajowhite.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/navajowhite.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/navajowhite.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/navajowhite.png?raw=true",
 			"palette": {
 				"50": "#fff9f1",
 				"100": "#fff4e3",
@@ -3249,7 +3249,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/navy.json",
 			"pngPath": "png/navy.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/navy.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/navy.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/navy.png?raw=true",
 			"palette": {
 				"50": "#d4d4e9",
 				"100": "#aaaad4",
@@ -3281,7 +3281,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/oldlace.json",
 			"pngPath": "png/oldlace.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/oldlace.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/oldlace.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/oldlace.png?raw=true",
 			"palette": {
 				"50": "#fefdfa",
 				"100": "#fefbf6",
@@ -3313,7 +3313,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/olive.json",
 			"pngPath": "png/olive.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/olive.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/olive.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/olive.png?raw=true",
 			"palette": {
 				"50": "#e9e9d4",
 				"100": "#d4d4aa",
@@ -3345,7 +3345,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/olivedrab.json",
 			"pngPath": "png/olivedrab.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/olivedrab.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/olivedrab.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/olivedrab.png?raw=true",
 			"palette": {
 				"50": "#e6ecda",
 				"100": "#cdd9b5",
@@ -3377,7 +3377,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/orange.json",
 			"pngPath": "png/orange.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/orange.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/orange.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/orange.png?raw=true",
 			"palette": {
 				"50": "#fff0d4",
 				"100": "#ffe1aa",
@@ -3409,7 +3409,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/orangered.json",
 			"pngPath": "png/orangered.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/orangered.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/orangered.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/orangered.png?raw=true",
 			"palette": {
 				"50": "#ffe0d4",
 				"100": "#ffc1aa",
@@ -3441,7 +3441,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/orchid.json",
 			"pngPath": "png/orchid.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/orchid.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/orchid.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/orchid.png?raw=true",
 			"palette": {
 				"50": "#f8e7f8",
 				"100": "#f2cff1",
@@ -3473,7 +3473,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/palegoldenrod.json",
 			"pngPath": "png/palegoldenrod.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/palegoldenrod.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/palegoldenrod.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/palegoldenrod.png?raw=true",
 			"palette": {
 				"50": "#fcfbf0",
 				"100": "#f9f7e2",
@@ -3505,7 +3505,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/palegreen.json",
 			"pngPath": "png/palegreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/palegreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/palegreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/palegreen.png?raw=true",
 			"palette": {
 				"50": "#edfeed",
 				"100": "#dcfddc",
@@ -3537,7 +3537,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/paleturquoise.json",
 			"pngPath": "png/paleturquoise.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/paleturquoise.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/paleturquoise.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/paleturquoise.png?raw=true",
 			"palette": {
 				"50": "#f1fcfc",
 				"100": "#e4f9f9",
@@ -3569,7 +3569,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/palevioletred.json",
 			"pngPath": "png/palevioletred.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/palevioletred.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/palevioletred.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/palevioletred.png?raw=true",
 			"palette": {
 				"50": "#f9e7ed",
 				"100": "#f3cfdb",
@@ -3601,7 +3601,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/papayawhip.json",
 			"pngPath": "png/papayawhip.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/papayawhip.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/papayawhip.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/papayawhip.png?raw=true",
 			"palette": {
 				"50": "#fffcf8",
 				"100": "#fff9f1",
@@ -3633,7 +3633,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/peachpuff.json",
 			"pngPath": "png/peachpuff.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/peachpuff.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/peachpuff.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/peachpuff.png?raw=true",
 			"palette": {
 				"50": "#fff8f3",
 				"100": "#fff2e7",
@@ -3665,7 +3665,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/peru.json",
 			"pngPath": "png/peru.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/peru.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/peru.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/peru.png?raw=true",
 			"palette": {
 				"50": "#f6eadf",
 				"100": "#eed6bf",
@@ -3697,7 +3697,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/pink.json",
 			"pngPath": "png/pink.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/pink.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/pink.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/pink.png?raw=true",
 			"palette": {
 				"50": "#fff4f6",
 				"100": "#ffeaed",
@@ -3729,7 +3729,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/plum.json",
 			"pngPath": "png/plum.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/plum.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/plum.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/plum.png?raw=true",
 			"palette": {
 				"50": "#f9eff9",
 				"100": "#f3dff3",
@@ -3761,7 +3761,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/powderblue.json",
 			"pngPath": "png/powderblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/powderblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/powderblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/powderblue.png?raw=true",
 			"palette": {
 				"50": "#f1f9fa",
 				"100": "#e4f4f6",
@@ -3793,7 +3793,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/purple.json",
 			"pngPath": "png/purple.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/purple.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/purple.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/purple.png?raw=true",
 			"palette": {
 				"50": "#e9d4e9",
 				"100": "#d4aad4",
@@ -3825,7 +3825,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/rebeccapurple.json",
 			"pngPath": "png/rebeccapurple.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/rebeccapurple.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/rebeccapurple.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/rebeccapurple.png?raw=true",
 			"palette": {
 				"50": "#e5ddee",
 				"100": "#ccbbdd",
@@ -3857,7 +3857,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/red.json",
 			"pngPath": "png/red.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/red.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/red.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/red.png?raw=true",
 			"palette": {
 				"50": "#ffd4d4",
 				"100": "#ffaaaa",
@@ -3889,7 +3889,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/rosybrown.json",
 			"pngPath": "png/rosybrown.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/rosybrown.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/rosybrown.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/rosybrown.png?raw=true",
 			"palette": {
 				"50": "#f3ecec",
 				"100": "#e8d9d9",
@@ -3921,7 +3921,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/royalblue.json",
 			"pngPath": "png/royalblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/royalblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/royalblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/royalblue.png?raw=true",
 			"palette": {
 				"50": "#dfe6fa",
 				"100": "#bfcdf5",
@@ -3953,7 +3953,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/saddlebrown.json",
 			"pngPath": "png/saddlebrown.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/saddlebrown.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/saddlebrown.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/saddlebrown.png?raw=true",
 			"palette": {
 				"50": "#ebe0d7",
 				"100": "#d8c1b0",
@@ -3985,7 +3985,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/salmon.json",
 			"pngPath": "png/salmon.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/salmon.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/salmon.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/salmon.png?raw=true",
 			"palette": {
 				"50": "#fee9e7",
 				"100": "#fdd4d0",
@@ -4017,7 +4017,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/sandybrown.json",
 			"pngPath": "png/sandybrown.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/sandybrown.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/sandybrown.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/sandybrown.png?raw=true",
 			"palette": {
 				"50": "#fdefe4",
 				"100": "#fbe0ca",
@@ -4049,7 +4049,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/seagreen.json",
 			"pngPath": "png/seagreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/seagreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/seagreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/seagreen.png?raw=true",
 			"palette": {
 				"50": "#dcebe3",
 				"100": "#b9d8c7",
@@ -4081,7 +4081,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/seashell.json",
 			"pngPath": "png/seashell.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/seashell.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/seashell.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/seashell.png?raw=true",
 			"palette": {
 				"50": "#fffdfc",
 				"100": "#fffbf9",
@@ -4113,7 +4113,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/sienna.json",
 			"pngPath": "png/sienna.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/sienna.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/sienna.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/sienna.png?raw=true",
 			"palette": {
 				"50": "#efe2dc",
 				"100": "#dfc5b9",
@@ -4145,7 +4145,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/silver.json",
 			"pngPath": "png/silver.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/silver.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/silver.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/silver.png?raw=true",
 			"palette": {
 				"50": "#f4f4f4",
 				"100": "#eaeaea",
@@ -4177,7 +4177,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/skyblue.json",
 			"pngPath": "png/skyblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/skyblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/skyblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/skyblue.png?raw=true",
 			"palette": {
 				"50": "#ebf6fb",
 				"100": "#d7eef8",
@@ -4209,7 +4209,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/slateblue.json",
 			"pngPath": "png/slateblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/slateblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/slateblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/slateblue.png?raw=true",
 			"palette": {
 				"50": "#e6e3f6",
 				"100": "#cdc8ee",
@@ -4241,7 +4241,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/slategray.json",
 			"pngPath": "png/slategray.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/slategray.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/slategray.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/slategray.png?raw=true",
 			"palette": {
 				"50": "#e7e9ec",
 				"100": "#cfd4da",
@@ -4273,7 +4273,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/slategrey.json",
 			"pngPath": "png/slategrey.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/slategrey.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/slategrey.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/slategrey.png?raw=true",
 			"palette": {
 				"50": "#e7e9ec",
 				"100": "#cfd4da",
@@ -4305,7 +4305,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/snow.json",
 			"pngPath": "png/snow.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/snow.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/snow.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/snow.png?raw=true",
 			"palette": {
 				"50": "#fffefe",
 				"100": "#fffdfd",
@@ -4337,7 +4337,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/springgreen.json",
 			"pngPath": "png/springgreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/springgreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/springgreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/springgreen.png?raw=true",
 			"palette": {
 				"50": "#d4ffe9",
 				"100": "#aaffd4",
@@ -4369,7 +4369,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/steelblue.json",
 			"pngPath": "png/steelblue.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/steelblue.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/steelblue.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/steelblue.png?raw=true",
 			"palette": {
 				"50": "#e0eaf2",
 				"100": "#c1d5e6",
@@ -4401,7 +4401,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/tan.json",
 			"pngPath": "png/tan.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/tan.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/tan.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/tan.png?raw=true",
 			"palette": {
 				"50": "#f7f2eb",
 				"100": "#f0e6d8",
@@ -4433,7 +4433,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/teal.json",
 			"pngPath": "png/teal.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/teal.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/teal.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/teal.png?raw=true",
 			"palette": {
 				"50": "#d4e9e9",
 				"100": "#aad4d4",
@@ -4465,7 +4465,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/thistle.json",
 			"pngPath": "png/thistle.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/thistle.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/thistle.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/thistle.png?raw=true",
 			"palette": {
 				"50": "#f8f4f8",
 				"100": "#f2e9f2",
@@ -4497,7 +4497,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/tomato.json",
 			"pngPath": "png/tomato.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/tomato.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/tomato.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/tomato.png?raw=true",
 			"palette": {
 				"50": "#ffe5e0",
 				"100": "#ffcbc1",
@@ -4529,7 +4529,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/turquoise.json",
 			"pngPath": "png/turquoise.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/turquoise.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/turquoise.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/turquoise.png?raw=true",
 			"palette": {
 				"50": "#dff9f7",
 				"100": "#bff4ef",
@@ -4561,7 +4561,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/violet.json",
 			"pngPath": "png/violet.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/violet.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/violet.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/violet.png?raw=true",
 			"palette": {
 				"50": "#fceafc",
 				"100": "#f9d5f9",
@@ -4593,7 +4593,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/wheat.json",
 			"pngPath": "png/wheat.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/wheat.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/wheat.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/wheat.png?raw=true",
 			"palette": {
 				"50": "#fdf9f2",
 				"100": "#fbf4e5",
@@ -4625,7 +4625,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/white.json",
 			"pngPath": "png/white.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/white.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/white.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/white.png?raw=true",
 			"palette": {
 				"50": "#ffffff",
 				"100": "#ffffff",
@@ -4657,7 +4657,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/whitesmoke.json",
 			"pngPath": "png/whitesmoke.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/whitesmoke.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/whitesmoke.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/whitesmoke.png?raw=true",
 			"palette": {
 				"50": "#fdfdfd",
 				"100": "#fbfbfb",
@@ -4689,7 +4689,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/yellow.json",
 			"pngPath": "png/yellow.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/yellow.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/yellow.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/yellow.png?raw=true",
 			"palette": {
 				"50": "#ffffd4",
 				"100": "#ffffaa",
@@ -4721,7 +4721,7 @@
 			"jsonGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/json/yellowgreen.json",
 			"pngPath": "png/yellowgreen.png",
 			"pngGithub": "https://github.com/iaseth/html-color-names/blob/master/png/yellowgreen.png",
-			"pngGithubRaw": "https://raw.githubusercontent.com/iaseth/html-color-names/master/png/yellowgreen.png",
+			"pngGithubRaw": "https://github.com/iaseth/html-color-names/blob/master/png/yellowgreen.png?raw=true",
 			"palette": {
 				"50": "#eef6dc",
 				"100": "#ddeeba",

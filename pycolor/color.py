@@ -26,7 +26,7 @@ class PyColor:
 		self.pngname = f"{self.lowername}.png"
 		self.pngpath = f"png/{self.pngname}"
 		self.png_github = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngpath}"
-		self.png_github_raw = f"https://raw.githubusercontent.com/iaseth/html-color-names/master/{self.pngpath}"
+		self.png_github_raw = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngpath}?raw=true"
 
 	def as_object(self):
 		jo = {}
