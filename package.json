@@ -1,0 +1,17 @@
+{
+  "name": "html-color-names",
+  "version": "0.1.1",
+  "description": "Color palettes from standard HTML colors.",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["html", "css", "json", "color", "colors"],
+  "author": "iaseth",
+  "homepage": "https://iaseth.github.io/html-color-names/",
+  "repository": "iaseth/html-color-names",
+  "license": "MIT"
+}
