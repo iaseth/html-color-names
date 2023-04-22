@@ -1,5 +1,5 @@
 {
-  "name": "html-color-names",
+  "name": "hcn",
   "version": "0.1.1",
   "description": "Color palettes from standard HTML colors.",
   "main": "src/index.js",
