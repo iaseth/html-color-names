@@ -12,44 +12,51 @@
 		font-feature-settings: normal;
 		font-variation-settings: normal;
 		margin: 0;
-	}
-
-	section.palette:nth-child(odd) {
 		background-color: #e7e7e7;
+		padding: 40px 10px;
 	}
 
 	article.palette {
-		max-width: 1080px;
+		background-color: #fff;
+		max-width: 960px;
 		margin: auto;
-		padding: 50px 10px;
+		margin-bottom: 40px;
+		padding: 20px 20px;
 	}
 
-
 	article.palette > header {
-		padding: 0px 10px;
+		padding: 0px 20px;
 	}
 
 	article.palette > footer {
-		padding: 0px 10px;
+		padding: 5px 20px;
 	}
 
 	article.palette > footer > h4 > span {
 		padding: 0px 5px;
 	}
 
-	pre {
-		background-color: rgba(0, 0, 0, 0.1);
-		padding: 5px 10px;
+	main.palette {
+		//
 	}
 
-	main.palette {
+	section.color-meter {
 		display: grid;
 		grid-template-columns: repeat(11, minmax(0, 1fr));
 		border: 2px solid #888;
 	}
 
-	main.palette > div.box {
+	section.color-meter > div.box {
 		height: 60px;
+	}
+
+	div.codebox {
+		background-color: #f2f2f2;
+		padding: 5px 10px;
+	}
+
+	div.codebox pre {
+		line-height: 2;
 	}
 </style>
 
@@ -61,12 +68,16 @@
 		</header>
 
 		<main class="palette">
-			{% for shade in color.get_palette() %}
-				<div class="box" style="background-color: {{ shade["hex"] }}"></div>
-			{% endfor %}
+			<section class="color-meter">
+				{% for shade in color.get_palette() %}
+					<div class="box" style="background-color: {{ shade["hex"] }}"></div>
+				{% endfor %}
+			</section>
+			<div class="codebox">
+				<pre>{{ color.get_palette_json_text() }}</pre>
+			</div>
 		</main>
 
-		<pre>{{ color.get_palette_json_text() }}</pre>
 		<footer>
 			<h4>
 				<a href="{{ color.css_github }}">View CSS</a>
