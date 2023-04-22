@@ -70,6 +70,18 @@ def generate_master_json(colors):
 	print(f"saved: {master_json_path}")
 
 
+def generate_master_css(colors):
+	master_css_template = jinja_env.get_template("master_css.txt")
+	csspath = "master.css"
+	css_text = master_css_template.render(
+		colors=colors
+	)
+
+	with open(csspath, "w") as f:
+		f.write(css_text)
+	print(f"saved: {csspath}")
+
+
 def generate_pngs(colors):
 	SIZE = 50
 	startY = 0
@@ -107,6 +119,8 @@ def main():
 		generate_html(colors)
 	elif command == "masterjson":
 		generate_master_json(colors)
+	elif command == "mastercss":
+		generate_master_css(colors)
 	elif command == "png":
 		generate_pngs(colors)
 	else:

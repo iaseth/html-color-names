@@ -19,6 +19,9 @@ png:
 masterjson:
 	python generate.py masterjson
 
+mastercss:
+	python generate.py mastercss
+
 clean:
 	@rm -rf css
 	@rm -rf json

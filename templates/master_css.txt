@@ -1,0 +1,12 @@
+
+{% for color in colors %}
+/* github: https://github.com/iaseth/html-color-names */
+/* color: {{ color.name }} */
+{% for shade in color.get_palette() %}
+.bg-{{ color.lowername }}-{{ shade["value"] }} { background-color: {{ shade["hex"] }}; }
+.text-{{ color.lowername }}-{{ shade["value"] }} { color: {{ shade["hex"] }}; }
+.border-{{ color.lowername }}-{{ shade["value"] }} { border-color: {{ shade["hex"] }}; }
+.outline-{{ color.lowername }}-{{ shade["value"] }} { outline-color: {{ shade["hex"] }}; }
+{% endfor %}
+{% endfor %}
+
