@@ -10,3 +10,8 @@ vitapp/
 generate.py
 README.md
 Makefile
+
+/src/
+/master.css
+/master.json
+/colors.json

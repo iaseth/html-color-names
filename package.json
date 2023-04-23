@@ -1,8 +1,8 @@
 {
-  "name": "hcn",
-  "version": "0.1.1",
+  "name": "html-color-names",
+  "version": "0.1.4",
   "description": "Color palettes from standard HTML colors.",
-  "main": "src/index.js",
+  "main": "dist/src/index.js",
   "directories": {
     "doc": "docs"
   },
