@@ -23,13 +23,13 @@ interface ColorJsonType {
 
 const colors: ColorJsonType[] = masterJson.colors;
 
-export const palettes: any = {};
+export const htmlcolors: any = {};
 colors.forEach(color => {
-	palettes[color.lowername] = color.palette
+	htmlcolors[color.lowername] = color.palette
 });
 
 const hcn: any = {
-	palettes
+	htmlcolors
 };
 
 export default hcn;
