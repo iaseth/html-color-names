@@ -17,7 +17,7 @@ section.palette-container {
 article.palette {
 	max-width: 960px;
 	margin: auto;
-	padding: 50px 20px;
+	padding: 50px 10px;
 	padding-bottom: 80px;
 }
 
@@ -40,11 +40,11 @@ main.palette {
 section.color-meter {
 	display: grid;
 	grid-template-columns: repeat(11, minmax(0, 1fr));
-	border: 2px solid #888;
+	border: 1px solid #444;
 }
 
 section.color-meter > div.box {
-	height: 60px;
+	height: 75px;
 }
 
 div.codebox {
