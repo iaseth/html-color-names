@@ -3,65 +3,13 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>HTML Color Names</title>
+
+	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
 
-<style type="text/css">
-	body {
-		font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
-		font-feature-settings: normal;
-		font-variation-settings: normal;
-		margin: 0;
-		background-color: #e7e7e7;
-		padding: 40px 10px;
-	}
-
-	article.palette {
-		background-color: #fff;
-		max-width: 960px;
-		margin: auto;
-		margin-bottom: 40px;
-		padding: 20px 20px;
-	}
-
-	article.palette > header {
-		padding: 0px 20px;
-	}
-
-	article.palette > footer {
-		padding: 5px 20px;
-	}
-
-	article.palette > footer > h4 > span {
-		padding: 0px 5px;
-	}
-
-	main.palette {
-		//
-	}
-
-	section.color-meter {
-		display: grid;
-		grid-template-columns: repeat(11, minmax(0, 1fr));
-		border: 2px solid #888;
-	}
-
-	section.color-meter > div.box {
-		height: 60px;
-	}
-
-	div.codebox {
-		background-color: #f2f2f2;
-		padding: 5px 10px;
-	}
-
-	div.codebox pre {
-		line-height: 2;
-	}
-</style>
-
 {% for color in colors %}
-<section class="palette">
+<section class="palette-container">
 	<article class="palette">
 		<header>
 			<h2>{{ color.name }}</h2>
@@ -91,8 +39,8 @@
 				<a href="{{ color.json_github_raw }}">Download JSON</a>
 			</h4>
 		</footer>
-	</section>
-</main>
+	</article>
+</section>
 {% endfor %}
 
 </body>
