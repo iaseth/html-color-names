@@ -11,6 +11,11 @@ from pycolor import get_color_from_json
 
 
 
+def file_save_log(filepath):
+	size = os.path.getsize(filepath)
+	kB = round(size / 1000, 1)
+	print(f"saved: {filepath} [{kB}kB]")
+
 def generate_readme(colors):
 	readme_md_template = jinja_env.get_template("readme_md.md")
 	firebrick = [c for c in colors if c.lowername == "firebrick"][0]
@@ -34,14 +39,14 @@ def generate_css(colors):
 
 		with open(color.cssPath, "w") as f:
 			f.write(css_text)
-		print(f"saved: {color.cssPath}")
+		file_save_log(color.cssPath)
 
 
 def generate_json(colors):
 	for color in colors:
 		with open(color.jsonPath, "w") as f:
 			json.dump(color.get_palette_json(), f, indent="\t")
-		print(f"saved: {color.jsonPath}")
+		file_save_log(color.jsonPath)
 
 
 def generate_html(colors):
@@ -53,7 +58,7 @@ def generate_html(colors):
 
 		with open(color.htmlPath, "w") as f:
 			f.write(colorpage_text)
-		print(f"saved: {color.htmlPath}")
+		file_save_log(color.htmlPath)
 
 	homepage_html_template = jinja_env.get_template("homepage.html")
 	homepage_html_text = homepage_html_template.render(
@@ -63,7 +68,7 @@ def generate_html(colors):
 	homepage_path = "docs/index.html"
 	with open(homepage_path, "w") as f:
 		f.write(homepage_html_text)
-	print(f"saved: {homepage_path}")
+	file_save_log(homepage_path)
 
 
 def generate_master_json(colors):
@@ -78,7 +83,7 @@ def generate_master_json(colors):
 	master_json_path = "master.json"
 	with open(master_json_path, "w") as f:
 		json.dump(jo, f, indent="\t")
-	print(f"saved: {master_json_path}")
+	file_save_log(master_json_path)
 
 
 def generate_master_css(colors):
@@ -90,7 +95,7 @@ def generate_master_css(colors):
 
 	with open(csspath, "w") as f:
 		f.write(css_text)
-	print(f"saved: {csspath}")
+	file_save_log(csspath)
 
 
 def generate_pngs(colors):
@@ -110,7 +115,7 @@ def generate_pngs(colors):
 
 		im = Image.fromarray(data)
 		im.save(color.pngpath)
-		print(f"saved: {color.pngpath}")
+		file_save_log(color.pngpath)
 
 
 def main():
