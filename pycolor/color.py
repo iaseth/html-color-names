@@ -23,8 +23,8 @@ class PyColor:
 		self.jsonGithub = f"https://github.com/iaseth/html-color-names/blob/master/{self.jsonPath}"
 		self.jsonGithubRaw = f"https://raw.githubusercontent.com/iaseth/html-color-names/master/{self.jsonPath}"
 
-		self.pngname = f"{self.lowername}.png"
-		self.pngPath = f"png/{self.pngname}"
+		self.pngName = f"{self.lowername}.png"
+		self.pngPath = f"png/{self.pngName}"
 		self.pngGithub = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngPath}"
 		self.pngGithubRaw = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngPath}?raw=true"
 
@@ -35,14 +35,17 @@ class PyColor:
 		jo["hex"] = self.hex
 		jo["rgb"] = self.rgb
 
+		jo["cssName"] = self.cssName
 		jo["cssPath"] = self.cssPath
 		jo["cssGithub"] = self.cssGithub
 		jo["cssGithubRaw"] = self.cssGithubRaw
 
+		jo["jsonName"] = self.jsonName
 		jo["jsonPath"] = self.jsonPath
 		jo["jsonGithub"] = self.jsonGithub
 		jo["jsonGithubRaw"] = self.jsonGithubRaw
 
+		jo["pngName"] = self.pngName
 		jo["pngPath"] = self.pngPath
 		jo["pngGithub"] = self.pngGithub
 		jo["pngGithubRaw"] = self.pngGithubRaw
