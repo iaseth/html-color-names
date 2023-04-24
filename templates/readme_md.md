@@ -2,7 +2,7 @@
 # html-color-names
 HTML has 148 named colors. What if you could generate a color palette using each of them?
 
-## How to use it with Tailwind
+### How to use it with Tailwind
 
 Install the [`html-color-names`](https://www.npmjs.com/package/html-color-names) npm package:
 ```
@@ -30,6 +30,28 @@ export default {
 	plugins: [],
 }
 ```
+
+### How I generate palettes?
+I am using `python` to automatically generate palettes for each color. The basic logic for generating a palette is as follows:
+
+* Each HTML color is assumed to be the `basecolor` and gets 5 `tints` and 5 `shades` to generate the palette.
+* `tints` are colors between the `basecolor` and `White`.
+* `shades` are colors between the `basecolor` and `Black`.
+* `basecolor` is set to be `500`.
+* `tints` are named from `50`, `100`, `200`, `300` and `400`.
+* `shades` are named from `600`, `700`, `800`, `900` and `950`.
+* The higher the `number`, the darker the color.
+
+
+### Limitations
+Since the palettes are automatically generated, there is no guarantee that the generated colors will look good. Some of the known problems you should watch out for, are:
+
+* Saturated colors like `Red`, `Blue` and `Green` don't always look very good.
+* Too light colors like `LightCyan` and `LightGoldenRodYellow` have too similar `tints` because there isn't enough gap between the color and `White`.
+* Too dark colors like `DarkGreen` and `DarkBlue` have too similar `shades` because there isn't enough gap between the color and `Black`.
+
+
+### List of HTML color palettes
 
 | # | Name | className | Hex | CSS | JSON |
 | --- | --- | --- | --- | --- | --- |{% for color in colors %}
