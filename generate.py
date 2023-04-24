@@ -13,8 +13,10 @@ from pycolor import get_color_from_json
 
 def generate_readme(colors):
 	readme_md_template = jinja_env.get_template("readme_md.md")
+	firebrick = [c for c in colors if c.lowername == "firebrick"][0]
 	readme_text = readme_md_template.render(
-		colors=colors
+		colors=colors,
+		firebrick=firebrick
 	)
 
 	with open("README.md", "w") as f:

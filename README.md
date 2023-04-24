@@ -1,8 +1,9 @@
 
 # html-color-names
-HTML has 148 named colors. What if you could generate a color palette using each of them?
+HTML has [148 named colors](https://github.com/iaseth/html-color-names/blob/master/colors.json). What if you could generate a color palette using each of them?
 
-### How to use it with Tailwind
+
+## How to use it with Tailwind
 
 Install the [`html-color-names`](https://www.npmjs.com/package/html-color-names) npm package:
 ```
@@ -31,7 +32,25 @@ export default {
 }
 ```
 
-### How I generate palettes?
+Now you can use the following classes in you HTML:
+
+| Background | Text | Border | Outline |
+| --- | --- | --- | --- |
+| .bg-firebrick-50 | .text-firebrick-50 | .border-firebrick-50 | .outline-firebrick-50 |
+| .bg-firebrick-100 | .text-firebrick-100 | .border-firebrick-100 | .outline-firebrick-100 |
+| .bg-firebrick-200 | .text-firebrick-200 | .border-firebrick-200 | .outline-firebrick-200 |
+| .bg-firebrick-300 | .text-firebrick-300 | .border-firebrick-300 | .outline-firebrick-300 |
+| .bg-firebrick-400 | .text-firebrick-400 | .border-firebrick-400 | .outline-firebrick-400 |
+| .bg-firebrick-500 | .text-firebrick-500 | .border-firebrick-500 | .outline-firebrick-500 |
+| .bg-firebrick-600 | .text-firebrick-600 | .border-firebrick-600 | .outline-firebrick-600 |
+| .bg-firebrick-700 | .text-firebrick-700 | .border-firebrick-700 | .outline-firebrick-700 |
+| .bg-firebrick-800 | .text-firebrick-800 | .border-firebrick-800 | .outline-firebrick-800 |
+| .bg-firebrick-900 | .text-firebrick-900 | .border-firebrick-900 | .outline-firebrick-900 |
+| .bg-firebrick-950 | .text-firebrick-950 | .border-firebrick-950 | .outline-firebrick-950 |
+
+
+
+## How I generate palettes?
 I am using `python` to automatically generate palettes for each color. The basic logic for generating a palette is as follows:
 
 * Each HTML color is assumed to be the `basecolor` and gets 5 `tints` and 5 `shades` to generate the palette.
@@ -43,7 +62,7 @@ I am using `python` to automatically generate palettes for each color. The basic
 * The higher the `number`, the darker the color.
 
 
-### Limitations
+## Limitations
 Since the palettes are automatically generated, there is no guarantee that the generated colors will look good. Some of the known problems you should watch out for, are:
 
 * Saturated colors like `Red`, `Blue` and `Green` don't always look very good.
@@ -51,7 +70,7 @@ Since the palettes are automatically generated, there is no guarantee that the g
 * Too dark colors like `DarkGreen` and `DarkBlue` have too similar `shades` because there isn't enough gap between the color and `Black`.
 
 
-### List of HTML color palettes
+## List of HTML color palettes
 
 | # | Name | className | Hex | CSS | JSON |
 | --- | --- | --- | --- | --- | --- |

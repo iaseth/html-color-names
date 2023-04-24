@@ -56,6 +56,21 @@ class PyColor:
 		jo["pngGithubRaw"] = self.pngGithubRaw
 		return jo
 
+	def get_classes_from_css(self):
+		text = open(self.cssPath).read()
+		lines = text.split("\n")
+		classes = [x.split("{")[0].strip() for x in lines if x.startswith(".")]
+		return classes
+
+	def get_classes_from_css_as_table(self):
+		classes = self.get_classes_from_css()
+		n = int(len(classes) / 4)
+		text = "| Background | Text | Border | Outline |\n"
+		text += "| --- | --- | --- | --- |\n"
+		for x in range(n):
+			k = x * 4
+			text += f"| {classes[k]} | {classes[k+1]} | {classes[k+2]} | {classes[k+3]} |\n"
+		return text
 
 
 	def get_middle_colors(self, other, count=5):
