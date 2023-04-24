@@ -22,6 +22,17 @@ masterjson:
 mastercss:
 	python generate.py mastercss
 
+
+rmcss:
+	rm -r css/*.css
+
+rmjson:
+	rm -r json/*.json
+
+rmdocs:
+	rm -r docs/*.html
+
+
 clean:
 	@rm -rf css
 	@rm -rf json
