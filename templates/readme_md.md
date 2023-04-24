@@ -1,6 +1,6 @@
 
 # html-color-names
-HTML has 148 named colors. What if you cound generated color palettes using each of them.
+HTML has 148 named colors. What if you could generate a color palette using each of them?
 
 ## How to use it with Tailwind
 
