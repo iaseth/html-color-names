@@ -1,6 +1,6 @@
 {
   "name": "html-color-names",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Color palettes from standard HTML colors.",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
