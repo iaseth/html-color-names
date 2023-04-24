@@ -10,8 +10,8 @@ css:
 json:
 	python generate.py json
 
-html:
-	python generate.py html
+docs:
+	python generate.py docs
 
 png:
 	python generate.py png
@@ -26,4 +26,4 @@ clean:
 	@rm -rf css
 	@rm -rf json
 
-.PHONY: readme css json png
+.PHONY: readme css json png docs

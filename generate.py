@@ -49,7 +49,7 @@ def generate_json(colors):
 		file_save_log(color.jsonPath)
 
 
-def generate_html(colors):
+def generate_docs(colors):
 	colorpage_html_template = jinja_env.get_template("colorpage.html")
 	for color in colors:
 		colorpage_text = colorpage_html_template.render(
@@ -131,8 +131,8 @@ def main():
 		generate_css(colors)
 	elif command == "json":
 		generate_json(colors)
-	elif command == "html":
-		generate_html(colors)
+	elif command == "docs":
+		generate_docs(colors)
 	elif command == "masterjson":
 		generate_master_json(colors)
 	elif command == "mastercss":
