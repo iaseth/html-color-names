@@ -44,6 +44,14 @@ def generate_json(colors):
 
 def generate_html(colors):
 	colorpage_html_template = jinja_env.get_template("colorpage.html")
+	for color in colors:
+		colorpage_text = colorpage_html_template.render(
+			color=color
+		)
+
+		with open(color.htmlPath, "w") as f:
+			f.write(colorpage_text)
+		print(f"saved: {color.htmlPath}")
 
 	homepage_html_template = jinja_env.get_template("homepage.html")
 	homepage_html_text = homepage_html_template.render(

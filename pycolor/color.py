@@ -28,6 +28,11 @@ class PyColor:
 		self.pngGithub = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngPath}"
 		self.pngGithubRaw = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngPath}?raw=true"
 
+		self.htmlName = f"{self.lowername}.html"
+		self.htmlPath = f"docs/{self.htmlName}"
+		self.docsPageURL = f"https://iaseth.github.io/html-color-names/{self.htmlName}"
+
+
 	def as_object(self):
 		jo = {}
 		jo["name"] = self.name
