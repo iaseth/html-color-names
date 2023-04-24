@@ -12,7 +12,7 @@ from pycolor import get_color_from_json
 
 
 def generate_readme(colors):
-	readme_md_template = jinja_env.get_template("readme_md.txt")
+	readme_md_template = jinja_env.get_template("readme_md.md")
 	readme_text = readme_md_template.render(
 		colors=colors
 	)
@@ -23,7 +23,7 @@ def generate_readme(colors):
 
 
 def generate_css(colors):
-	color_css_template = jinja_env.get_template("color_css.txt")
+	color_css_template = jinja_env.get_template("color_css.css")
 	for color in colors:
 		csspath = color.csspath
 		css_text = color_css_template.render(
@@ -71,7 +71,7 @@ def generate_master_json(colors):
 
 
 def generate_master_css(colors):
-	master_css_template = jinja_env.get_template("master_css.txt")
+	master_css_template = jinja_env.get_template("master_css.css")
 	csspath = "master.css"
 	css_text = master_css_template.render(
 		colors=colors
