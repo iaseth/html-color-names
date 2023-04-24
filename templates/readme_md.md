@@ -3,6 +3,8 @@
 HTML has [148 named colors](https://github.com/iaseth/html-color-names/blob/master/colors.json). What if you could generate a color palette using each of them?
 
 
+
+
 ## How to use it with Tailwind
 
 Install the [`html-color-names`](https://www.npmjs.com/package/html-color-names) npm package:
@@ -37,6 +39,8 @@ Now you can use the following classes in you HTML:
 {{ firebrick.get_classes_from_css_as_table() }}
 
 
+
+
 ## How I generate palettes?
 I am using `python` to automatically generate palettes for each color. The basic logic for generating a palette is as follows:
 
@@ -49,12 +53,16 @@ I am using `python` to automatically generate palettes for each color. The basic
 * The higher the `number`, the darker the color.
 
 
+
+
 ## Limitations
 Since the palettes are automatically generated, there is no guarantee that the generated colors will look good. Some of the known problems you should watch out for, are:
 
 * Saturated colors like `Red`, `Blue` and `Green` don't always look very good.
 * Too light colors like `LightCyan` and `LightGoldenRodYellow` have too similar `tints` because there isn't enough gap between the color and `White`.
 * Too dark colors like `DarkGreen` and `DarkBlue` have too similar `shades` because there isn't enough gap between the color and `Black`.
+
+
 
 
 ## List of HTML color palettes

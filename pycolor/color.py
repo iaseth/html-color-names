@@ -69,7 +69,7 @@ class PyColor:
 		text += "| --- | --- | --- | --- |\n"
 		for x in range(n):
 			k = x * 4
-			text += f"| {classes[k]} | {classes[k+1]} | {classes[k+2]} | {classes[k+3]} |\n"
+			text += f"| `{classes[k]}` | `{classes[k+1]}` | `{classes[k+2]}` | `{classes[k+3]}` |\n"
 		return text
 
 
