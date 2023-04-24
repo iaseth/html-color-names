@@ -25,8 +25,8 @@ export default {
 	content: [],
 	theme: {
 		colors: {
-			firebrick, // HTML color
 			slate, // Tailwind color
+			firebrick, // HTML color
 		},
 		extend: {},
 	},
