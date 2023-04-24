@@ -25,25 +25,26 @@ def generate_readme(colors):
 def generate_css(colors):
 	color_css_template = jinja_env.get_template("color_css.css")
 	for color in colors:
-		csspath = color.csspath
 		css_text = color_css_template.render(
 			name=color.lowername,
 			palette=color.get_palette()
 		)
 
-		with open(csspath, "w") as f:
+		with open(color.cssPath, "w") as f:
 			f.write(css_text)
-		print(f"saved: {csspath}")
+		print(f"saved: {color.cssPath}")
 
 
 def generate_json(colors):
 	for color in colors:
-		with open(color.jsonpath, "w") as f:
+		with open(color.jsonPath, "w") as f:
 			json.dump(color.get_palette_json(), f, indent="\t")
-		print(f"saved: {color.jsonpath}")
+		print(f"saved: {color.jsonPath}")
 
 
 def generate_html(colors):
+	colorpage_html_template = jinja_env.get_template("colorpage.html")
+
 	homepage_html_template = jinja_env.get_template("homepage.html")
 	homepage_html_text = homepage_html_template.render(
 		colors=colors

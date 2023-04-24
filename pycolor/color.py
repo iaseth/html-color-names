@@ -13,20 +13,20 @@ class PyColor:
 		self.name = name
 		self.lowername = self.name.lower()
 
-		self.cssname = f"{self.lowername}.css"
-		self.csspath = f"css/{self.cssname}"
-		self.css_github = f"https://github.com/iaseth/html-color-names/blob/master/css/{self.lowername}.css"
-		self.css_github_raw = f"https://raw.githubusercontent.com/iaseth/html-color-names/master/css/{self.lowername}.css"
+		self.cssName = f"{self.lowername}.css"
+		self.cssPath = f"css/{self.cssName}"
+		self.cssGithub = f"https://github.com/iaseth/html-color-names/blob/master/{self.cssPath}"
+		self.cssGithubRaw = f"https://raw.githubusercontent.com/iaseth/html-color-names/master/{self.cssPath}"
 
-		self.jsonname = f"{self.lowername}.json"
-		self.jsonpath = f"json/{self.jsonname}"
-		self.json_github = f"https://github.com/iaseth/html-color-names/blob/master/json/{self.lowername}.json"
-		self.json_github_raw = f"https://raw.githubusercontent.com/iaseth/html-color-names/master/json/{self.lowername}.json"
+		self.jsonName = f"{self.lowername}.json"
+		self.jsonPath = f"json/{self.jsonName}"
+		self.jsonGithub = f"https://github.com/iaseth/html-color-names/blob/master/{self.jsonPath}"
+		self.jsonGithubRaw = f"https://raw.githubusercontent.com/iaseth/html-color-names/master/{self.jsonPath}"
 
 		self.pngname = f"{self.lowername}.png"
-		self.pngpath = f"png/{self.pngname}"
-		self.png_github = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngpath}"
-		self.png_github_raw = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngpath}?raw=true"
+		self.pngPath = f"png/{self.pngname}"
+		self.pngGithub = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngPath}"
+		self.pngGithubRaw = f"https://github.com/iaseth/html-color-names/blob/master/{self.pngPath}?raw=true"
 
 	def as_object(self):
 		jo = {}
@@ -35,17 +35,17 @@ class PyColor:
 		jo["hex"] = self.hex
 		jo["rgb"] = self.rgb
 
-		jo["cssPath"] = self.csspath
-		jo["cssGithub"] = self.css_github
-		jo["cssGithubRaw"] = self.css_github_raw
+		jo["cssPath"] = self.cssPath
+		jo["cssGithub"] = self.cssGithub
+		jo["cssGithubRaw"] = self.cssGithubRaw
 
-		jo["jsonPath"] = self.jsonpath
-		jo["jsonGithub"] = self.json_github
-		jo["jsonGithubRaw"] = self.json_github_raw
+		jo["jsonPath"] = self.jsonPath
+		jo["jsonGithub"] = self.jsonGithub
+		jo["jsonGithubRaw"] = self.jsonGithubRaw
 
-		jo["pngPath"] = self.pngpath
-		jo["pngGithub"] = self.png_github
-		jo["pngGithubRaw"] = self.png_github_raw
+		jo["pngPath"] = self.pngPath
+		jo["pngGithub"] = self.pngGithub
+		jo["pngGithubRaw"] = self.pngGithubRaw
 		return jo
 
 
