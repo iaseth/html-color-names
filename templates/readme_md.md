@@ -41,6 +41,32 @@ Now you can use the following classes in you HTML:
 
 
 
+## Importing all colors
+
+You can import all 148 colors into your Tailwind project by putting this in your `tailwind.config.js`
+```javascript
+const tailwindcolors = require('tailwindcss/colors');
+
+const hcn = require("html-color-names");
+const {htmlcolors} = hcn;
+
+export default {
+	content: [],
+	theme: {
+		colors: {
+			...htmlcolors, // import all 148 color palettes
+			...tailwindcolors, // import all Tailwind colors, will overwrite colors if names clash
+		},
+		extend: {},
+	},
+	plugins: [],
+}
+```
+Note that colors like`red`, `blue` and `orange` are present in both `htmlcolors` and `tailwindcolors`, so whichever you put last will overwrite the other. I recommend putting `tailwindcolors` last because its colors are handpicked and should be preferred over `htmlcolors` which is auto-generated.
+
+
+
+
 ## How I generate palettes?
 I am using `python` to automatically generate palettes for each color. The basic logic for generating a palette is as follows:
 
