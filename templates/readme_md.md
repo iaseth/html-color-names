@@ -9,7 +9,7 @@ HTML has [148 named colors](https://github.com/iaseth/html-color-names/blob/mast
 
 Install the [`html-color-names`](https://www.npmjs.com/package/html-color-names) npm package:
 ```
-npm install html-color-names
+npm install --save-dev html-color-names
 ```
 
 Import and add the colors to your `tailwind.config.js`
