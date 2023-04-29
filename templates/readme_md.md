@@ -1,6 +1,6 @@
 
 # html-color-names
-HTML has [148 named colors](https://github.com/iaseth/html-color-names/blob/master/colors.json). What if you could generate a color palette using each of them?
+HTML has [148 named colors](https://github.com/iaseth/html-color-names/blob/master/colors.json). What if you could generate a color palette using each one of them?
 
 
 
@@ -14,9 +14,6 @@ npm install --save-dev html-color-names
 
 Import and add the colors to your `tailwind.config.js`
 ```javascript
-const tailwindcolors = require('tailwindcss/colors');
-const { slate } = tailwindcolors; // destructure all the tailwind colors you want to use
-
 const hcn = require("html-color-names");
 const { htmlcolors } = hcn;
 const { firebrick } = htmlcolors; // destructure all the HTML colors you want to use
@@ -24,11 +21,11 @@ const { firebrick } = htmlcolors; // destructure all the HTML colors you want to
 export default {
 	content: [],
 	theme: {
-		colors: {
-			slate, // Tailwind color
-			firebrick, // HTML color
+		extend: {
+			colors: {
+				firebrick, // HTML color
+			},
 		},
-		extend: {},
 	},
 	plugins: [],
 }
