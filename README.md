@@ -15,11 +15,11 @@ npm install --save-dev html-color-names
 Import and add the colors to your `tailwind.config.js`
 ```javascript
 const tailwindcolors = require('tailwindcss/colors');
-const {slate} = tailwindcolors; // destructure all the tailwind colors you want to use
+const { slate } = tailwindcolors; // destructure all the tailwind colors you want to use
 
 const hcn = require("html-color-names");
-const {htmlcolors} = hcn;
-const {firebrick} = htmlcolors; // destructure all the HTML colors you want to use
+const { htmlcolors } = hcn;
+const { firebrick } = htmlcolors; // destructure all the HTML colors you want to use
 
 export default {
 	content: [],
@@ -59,16 +59,17 @@ Now you can use the following classes in you HTML:
 You can import all 148 colors into your Tailwind project by putting this in your `tailwind.config.js`
 ```javascript
 const tailwindcolors = require('tailwindcss/colors');
+const { slate, blue, white } = tailwindcolors; // destructure all the tailwind colors you want to use
 
 const hcn = require("html-color-names");
-const {htmlcolors} = hcn;
+const { htmlcolors } = hcn;
 
 export default {
 	content: [],
 	theme: {
 		colors: {
 			...htmlcolors, // import all 148 color palettes
-			...tailwindcolors, // import all Tailwind colors, will overwrite colors if names clash
+			slate, blue, white, // import all Tailwind colors, will overwrite colors if names clash
 		},
 		extend: {},
 	},
